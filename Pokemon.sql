@@ -1,5 +1,3 @@
-DROP TABLE PKMN_Growth;
-
 CREATE TABLE PKMN_Growth
 (
 	Growth_ID int PRIMARY KEY GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
@@ -16,8 +14,6 @@ VALUES
 	('Medium Slow', 1059860),
 	('Slow', 1250000),
 	('Fluctuating', 1640000);
-
-DROP TABLE PKMN_Data;
 
 CREATE TABLE PKMN_Data
 (
@@ -424,6 +420,9 @@ VALUES
 	('Feebas', 349, 0.61, 7.4, 255, 1, 50, 20, 15, 20, 10, 55, 80),
 	('Milotic', 350, 6.20, 162.0, 60, 1, 50, 95, 60, 79, 100, 125, 81),
 	('Castform', 351, 0.30, 0.8, 45, 3, 50, 70, 70, 70, 70, 70, 70),
+	('Castform (Rain)', 351, 0.30, 0.8, 45, 3, 50, 70, 70, 70, 70, 70, 70),
+	('Castform (Sun)', 351, 0.30, 0.8, 45, 3, 50, 70, 70, 70, 70, 70, 70),
+	('Castform (Hail)', 351, 0.30, 0.8, 45, 3, 50, 70, 70, 70, 70, 70, 70),
 	('Kecleon', 352, 1.0, 22.0, 200, 4, 50, 60, 90, 70, 60, 120, 40),
 	('Shuppet', 353, 0.61, 2.3, 225, 2, 50, 44, 75, 35, 63, 33, 45),
 	('Banette', 354, 1.09, 12.5, 45, 2, 50, 64, 115, 65, 83, 63, 65),
