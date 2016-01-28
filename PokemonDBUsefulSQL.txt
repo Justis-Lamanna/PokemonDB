@@ -1,0 +1,11 @@
+Useful SQL for PokemonDB
+
+Generate a list of Pokemon species and their types.
+---------------------------------------------------
+SELECT PKMN_Data.Pokemon_Name, TYPE_Data.TYPE_NAME
+FROM PKMN_Type
+INNER JOIN PKMN_Data
+ON PKMN_Type.SPECIES_ID = PKMN_DATA.POKEMON_ID
+INNER JOIN TYPE_Data
+ON PKMN_Type.TYPE_ID = TYPE_Data.TYPE_ID
+ORDER BY PKMN_Type.MATCHUP_ID ASC;
