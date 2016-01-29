@@ -63,7 +63,7 @@ public class Ability_Parser
 		}
 		catch(FileNotFoundException ex)
 		{
-			return null;
+			return null; //This is what we call "terrible programming"
 		}
 	}
 
