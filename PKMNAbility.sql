@@ -1,0 +1,8 @@
+CREATE TABLE PKMN_Ablity
+(
+	Match_ID int PRIMARY KEY GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1), 
+	Species_ID int NOT NULL,
+	Ability_ID int NOT NULL,
+	Ability_Type int NOT NULL
+);
+
