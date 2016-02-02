@@ -71,7 +71,7 @@ public class Ability_Parser
 	{
 		for(int ability = 0; ability < abilities.length; ability++)
 		{
-			if(name.equalsIgnoreCase(abilities[ability])){return ability;}
+			if(name.equalsIgnoreCase(abilities[ability])){return ability+1;}
 		}
 		return -1;
 	}
