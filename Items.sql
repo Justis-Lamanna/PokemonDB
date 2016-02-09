@@ -270,7 +270,7 @@ VALUES
 	('Focus Band', 22),
 	('Lucky Egg', 22),
 	('Scope Lens', 22),
-	('Metal Lens', 26),
+	('Metal Coat', 26),
 	('Leftovers', 22),
 	('Dragon Scale', 18),
 	('Light Ball', 27),
