@@ -1,8 +1,8 @@
 CREATE TABLE EVOL_Parameter
 (
 	Parameter_ID int PRIMARY KEY GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
-	Parameter_Desc varchar(100) NOT NULL,
-)
+	Parameter_Desc varchar(100) NOT NULL
+);
 
 INSERT INTO EVOL_Parameter
 	(Parameter_Desc)
@@ -19,11 +19,11 @@ CREATE TABLE EVOL_Type
 (
 	Evolution_ID int PRIMARY KEY GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
 	Evolution_Desc varchar(100) NOT NULL,
-	Parameter int
+	Evo_Parameter int
 );
 
 INSERT INTO EVOL_Type
-	(Evolution_Desc, Parameter)
+	(Evolution_Desc, Evo_Parameter)
 VALUES
 	('Level', 1),
 	('Friendship', null),
@@ -41,9 +41,9 @@ VALUES
 	('Male Only', 1),
 	('Female Only', 1),
 	('Generate another', 5),
-	('Certain type in the party', 6),
-	('Upside-down', null),
-	('Raining in the overworld', null),
+	('Dark-type in the party', 1),
+	('Upside-down', 1),
+	('Raining in the overworld', 1),
 	('Attack > Defense', 1),
 	('Attack < Defense', 1),
 	('Attack = Defense', 1),
@@ -54,7 +54,7 @@ VALUES
 	('Evolution Stone, Male', 4),
 	('Trade', null),
 	('Trade with item', 4),
-	('Trade for a Pokémon', 4);
+	('Trade for a Pokémon', 5);
 
 CREATE TABLE PKMN_Evolutions
 (
@@ -265,4 +265,62 @@ VALUES
 	(548, 549, 25, 80),
 	(551, 552, 1, 29), (552, 553, 1, 40),
 	(554, 555, 1, 35),
-	
+	(557, 558, 1, 34),
+	(559, 560, 1, 39),
+	(562, 563, 1, 34),
+	(564, 565, 1, 37),
+	(566, 567, 1, 37),
+	(568, 569, 1, 36),
+	(570, 571, 1, 30),
+	(572, 573, 25, 107),
+	(574, 575, 1, 32), (575, 576, 1, 41),
+	(577, 578, 1, 32), (578, 579, 1, 41),
+	(580, 581, 1, 35),
+	(582, 583, 1, 35), (583, 584, 1, 47),
+	(585, 586, 1, 34),
+	(588, 589, 30, 616),
+	(590, 591, 1, 39),
+	(592, 593, 1, 40),
+	(595, 596, 1, 36),
+	(597, 598, 1, 40),
+	(599, 600, 1, 38), (600, 601, 1, 49),
+	(602, 603, 1, 39), (603, 604, 25, 83),
+	(605, 606, 1, 42),
+	(607, 608, 1, 41), (608, 609, 25, 108),
+	(610, 611, 1, 38), (611, 612, 1, 48),
+	(613, 614, 1, 37),
+	(616, 617, 30, 588),
+	(619, 620, 1, 50),
+	(622, 623, 1, 43),
+	(624, 625, 1, 52),
+	(627, 628, 1, 54),
+	(629, 630, 1, 54),
+	(633, 634, 1, 50), (634, 635, 1, 64),
+	(636, 637, 1, 59),
+
+	(650, 651, 1, 16), (651, 652, 1, 36),
+	(653, 654, 1, 16), (654, 655, 1, 36),
+	(656, 657, 1, 16), (657, 658, 1, 36),
+	(659, 660, 1, 20),
+	(661, 662, 1, 17), (662, 663, 1, 35),
+	(664, 665, 1, 9), (665, 666, 1, 12),
+	(667, 668, 1, 35),
+	(669, 670, 1, 19), (670, 671, 25, 107),
+	(672, 673, 1, 32),
+	(674, 675, 17, 32),
+	(677, 678, 1, 25),
+	(679, 680, 1, 35), (680, 681, 25, 108),
+	(682, 683, 29, 497),
+	(684, 685, 29, 496),
+	(686, 687, 18, 30),
+	(688, 689, 1, 39),
+	(690, 691, 1, 48),
+	(692, 693, 1, 37),
+	(694, 695, 25, 80),
+	(696, 697, 7, 39),
+	(698, 699, 8, 39),
+	(704, 705, 1, 40), (705, 706, 19, 50),
+	(708, 709, 28, null),
+	(710, 711, 28, null),
+	(712, 713, 1, 37),
+	(714, 715, 1, 48);
