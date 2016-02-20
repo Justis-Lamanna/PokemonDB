@@ -20,6 +20,7 @@ public class Movepool_Parser
 			while(input.hasNextLine())
 			{
 				String line = input.nextLine();
+				//System.out.println(line);
 				if(line.equals("-"))
 				{
 					species++;

@@ -10908,3 +10908,1387 @@
 73	Hyper Beam	Normal	Special	150	90%	5	Cool	4 ♥♥♥♥	4 ♥♥♥♥
 77	Self-Destruct	Normal	Physical	200	100%	5	Beautiful	8 ♥♥♥♥♥♥♥♥	0  
 -
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+5	Vine Whip	Grass	Physical	45	100%	25	Cool	4 ♥♥♥♥	0  
+8	Rollout	Rock	Physical	30	90%	20	Cute	3 ♥♥♥	0  
+11	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+15	Leech Seed	Grass	Status	—	90%	10	Clever	1 ♥	0  
+18	Pin Missile	Bug	Physical	25	95%	20	Cool	1 ♥	0  
+27	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+32	Seed Bomb	Grass	Physical	80	100%	15	Tough	4 ♥♥♥♥	0  
+35	Mud Shot	Ground	Special	55	95%	15	Tough	4 ♥♥♥♥	0  
+39	Bulk Up	Fighting	Status	—	—%	20	Cool	1 ♥	0  
+42	Body Slam	Normal	Physical	85	100%	15	Tough	1 ♥	4 ♥♥♥♥
+45	Pain Split	Normal	Status	—	—%	20	Clever	1 ♥	0  
+48	Wood Hammer	Grass	Physical	120	100%	15	Tough	6 ♥♥♥♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+5	Vine Whip	Grass	Physical	45	100%	25	Cool	4 ♥♥♥♥	0  
+8	Rollout	Rock	Physical	30	90%	20	Cute	3 ♥♥♥	0  
+11	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+15	Leech Seed	Grass	Status	—	90%	10	Clever	1 ♥	0  
+20	Pin Missile	Bug	Physical	25	95%	20	Cool	1 ♥	0  
+26	Needle Arm	Grass	Physical	60	100%	15	Clever	4 ♥♥♥♥	0  
+30	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+35	Seed Bomb	Grass	Physical	80	100%	15	Tough	4 ♥♥♥♥	0  
+39	Mud Shot	Ground	Special	55	95%	15	Tough	4 ♥♥♥♥	0  
+44	Bulk Up	Fighting	Status	—	—%	20	Cool	1 ♥	0  
+48	Body Slam	Normal	Physical	85	100%	15	Tough	1 ♥	4 ♥♥♥♥
+52	Pain Split	Normal	Status	—	—%	20	Clever	1 ♥	0  
+55	Wood Hammer	Grass	Physical	120	100%	15	Tough	6 ♥♥♥♥♥♥	0  
+-
+1	Feint	Normal	Physical	30	100%	10	Clever	3 ♥♥♥	0  
+1	Hammer Arm	Fighting	Physical	100	90%	10	Tough	6 ♥♥♥♥♥♥	0  
+1	Belly Drum	Normal	Status	—	—%	10	Cute	6 ♥♥♥♥♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+5	Vine Whip	Grass	Physical	45	100%	25	Cool	4 ♥♥♥♥	0  
+8	Rollout	Rock	Physical	30	90%	20	Cute	3 ♥♥♥	0  
+11	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+15	Leech Seed	Grass	Status	—	90%	10	Clever	1 ♥	0  
+20	Pin Missile	Bug	Physical	25	95%	20	Cool	1 ♥	0  
+26	Needle Arm	Grass	Physical	60	100%	15	Clever	4 ♥♥♥♥	0  
+30	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+35	Seed Bomb	Grass	Physical	80	100%	15	Tough	4 ♥♥♥♥	0  
+36	Spiky Shield	Grass	Status	—	—%	10	Tough	1 ♥	0  
+41	Mud Shot	Ground	Special	55	95%	15	Tough	4 ♥♥♥♥	0  
+44	Bulk Up	Fighting	Status	—	—%	20	Cool	1 ♥	0  
+48	Body Slam	Normal	Physical	85	100%	15	Tough	1 ♥	4 ♥♥♥♥
+52	Pain Split	Normal	Status	—	—%	20	Clever	1 ♥	0  
+55	Wood Hammer	Grass	Physical	120	100%	15	Tough	6 ♥♥♥♥♥♥	0  
+60	Hammer Arm	Fighting	Physical	100	90%	10	Tough	6 ♥♥♥♥♥♥	0  
+70	Giga Impact	Normal	Physical	150	90%	5	Tough	4 ♥♥♥♥	4 ♥♥♥♥
+75	Spiky Shield	Grass	Status	—	—%	10	Tough	1 ♥	0  
+-
+1	Scratch	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+5	Ember	Fire	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+11	Howl	Normal	Status	—	—%	40	Cool	2 ♥♥	0  
+14	Flame Charge	Fire	Physical	50	100%	20	Cool	1 ♥	0  
+17	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+20	Fire Spin	Fire	Special	35	85%	15	Beautiful	3 ♥♥♥	0  
+25	Lucky Chant	Normal	Status	—	—%	30	Cute	1 ♥	0  
+27	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+31	Psyshock	Psychic	Special	80	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+35	Flamethrower	Fire	Special	90	100%	15	Beautiful	4 ♥♥♥♥	0  
+38	Will-O-Wisp	Fire	Status	—	85%	15	Beautiful	3 ♥♥♥	0  
+41	Psychic	Psychic	Special	90	100%	10	Clever	4 ♥♥♥♥	0  
+43	Sunny Day	Fire	Status	—	—%	5	Beautiful	1 ♥	0  
+46	Magic Room	Psychic	Status	—	—%	10	Clever	3 ♥♥♥	0  
+48	Fire Blast	Fire	Special	110	85%	5	Beautiful	1 ♥	0  
+-
+1	Scratch	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+5	Ember	Fire	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+11	Howl	Normal	Status	—	—%	40	Cool	2 ♥♥	0  
+14	Flame Charge	Fire	Physical	50	100%	20	Cool	1 ♥	0  
+18	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+22	Fire Spin	Fire	Special	35	85%	15	Beautiful	3 ♥♥♥	0  
+27	Lucky Chant	Normal	Status	—	—%	30	Cute	1 ♥	0  
+30	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+34	Psyshock	Psychic	Special	80	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+41	Flamethrower	Fire	Special	90	100%	15	Beautiful	4 ♥♥♥♥	0  
+45	Will-O-Wisp	Fire	Status	—	85%	15	Beautiful	3 ♥♥♥	0  
+48	Psychic	Psychic	Special	90	100%	10	Clever	4 ♥♥♥♥	0  
+51	Sunny Day	Fire	Status	—	—%	5	Beautiful	1 ♥	0  
+53	Magic Room	Psychic	Status	—	—%	10	Clever	3 ♥♥♥	0  
+55	Fire Blast	Fire	Special	110	85%	5	Beautiful	1 ♥	0  
+-
+1	Future Sight	Psychic	Special	120	100%	10	Clever	2 ♥♥	0  
+1	Role Play	Psychic	Status	—	—%	10	Cute	1 ♥	0  
+1	Switcheroo	Dark	Status	—	100%	10	Clever	2 ♥♥	1 ♥
+1	Shadow Ball	Ghost	Special	80	100%	15	Clever	4 ♥♥♥♥	0  
+1	Scratch	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+5	Ember	Fire	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+11	Howl	Normal	Status	—	—%	40	Cool	2 ♥♥	0  
+14	Flame Charge	Fire	Physical	50	100%	20	Cool	1 ♥	0  
+18	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+22	Fire Spin	Fire	Special	35	85%	15	Beautiful	3 ♥♥♥	0  
+27	Lucky Chant	Normal	Status	—	—%	30	Cute	1 ♥	0  
+30	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+34	Psyshock	Psychic	Special	80	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+36	Mystical Fire	Fire	Special	65	100%	10	Beautiful	3 ♥♥♥	0  
+42	Flamethrower	Fire	Special	90	100%	15	Beautiful	4 ♥♥♥♥	0  
+47	Will-O-Wisp	Fire	Status	—	85%	15	Beautiful	3 ♥♥♥	0  
+51	Psychic	Psychic	Special	90	100%	10	Clever	4 ♥♥♥♥	0  
+55	Sunny Day	Fire	Status	—	—%	5	Beautiful	1 ♥	0  
+58	Magic Room	Psychic	Status	—	—%	10	Clever	3 ♥♥♥	0  
+61	Fire Blast	Fire	Special	110	85%	5	Beautiful	1 ♥	0  
+69	Future Sight	Psychic	Special	120	100%	10	Clever	2 ♥♥	0  
+75	Mystical Fire	Fire	Special	65	100%	10	Beautiful	3 ♥♥♥	0  
+-
+1	Pound	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+5	Bubble	Water	Special	40	100%	30	Cute	4 ♥♥♥♥	0  
+8	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+10	Lick	Ghost	Physical	30	100%	30	Cute	2 ♥♥	3 ♥♥♥
+14	Water Pulse	Water	Special	60	100%	20	Beautiful	3 ♥♥♥	0  
+18	Smokescreen	Normal	Status	—	100%	20	Clever	2 ♥♥	3 ♥♥♥
+21	Round	Normal	Special	60	100%	15	Beautiful	2 ♥♥	0  
+25	Fling	Dark	Physical	—	100%	10	Cute	3 ♥♥♥	0  
+29	Smack Down	Rock	Physical	50	100%	15	Tough	2 ♥♥	1 ♥
+35	Substitute	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+39	Bounce	Flying	Physical	85	85%	5	Cute	1 ♥	0  
+43	Double Team	Normal	Status	—	—%	15	Cool	1 ♥	0  
+48	Hydro Pump	Water	Special	110	80%	5	Beautiful	1 ♥	0  
+-
+1	Pound	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+5	Bubble	Water	Special	40	100%	30	Cute	4 ♥♥♥♥	0  
+8	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+10	Lick	Ghost	Physical	30	100%	30	Cute	2 ♥♥	3 ♥♥♥
+14	Water Pulse	Water	Special	60	100%	20	Beautiful	3 ♥♥♥	0  
+20	Smokescreen	Normal	Status	—	100%	20	Clever	2 ♥♥	3 ♥♥♥
+23	Round	Normal	Special	60	100%	15	Beautiful	2 ♥♥	0  
+28	Fling	Dark	Physical	—	100%	10	Cute	3 ♥♥♥	0  
+33	Smack Down	Rock	Physical	50	100%	15	Tough	2 ♥♥	1 ♥
+38	Substitute	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+44	Bounce	Flying	Physical	85	85%	5	Cute	1 ♥	0  
+48	Double Team	Normal	Status	—	—%	15	Cool	1 ♥	0  
+55	Hydro Pump	Water	Special	110	80%	5	Beautiful	1 ♥	0  
+-
+1	Night Slash	Dark	Physical	70	100%	15	Cool	3 ♥♥♥	0  
+1	Role Play	Psychic	Status	—	—%	10	Cute	1 ♥	0  
+1	Mat Block	Fighting	Status	—	—%	10	Cool	1 ♥	3 ♥♥♥
+1	Pound	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+5	Bubble	Water	Special	40	100%	30	Cute	4 ♥♥♥♥	0  
+8	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+10	Lick	Ghost	Physical	30	100%	30	Cute	2 ♥♥	3 ♥♥♥
+14	Water Pulse	Water	Special	60	100%	20	Beautiful	3 ♥♥♥	0  
+20	Smokescreen	Normal	Status	—	100%	20	Clever	2 ♥♥	3 ♥♥♥
+23	Shadow Sneak	Ghost	Physical	40	100%	30	Clever	3 ♥♥♥	0  
+28	Spikes	Ground	Status	—	—%	20	Clever	2 ♥♥	0  
+33	Feint Attack	Dark	Physical	60	—%	20	Clever	2 ♥♥	0  
+36	Water Shuriken	Water	Physical	15	100%	20	Cool	3 ♥♥♥	0  
+43	Substitute	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+49	Extrasensory	Psychic	Special	80	100%	20	Cool	2 ♥♥	1 ♥
+52	Double Team	Normal	Status	—	—%	15	Cool	1 ♥	0  
+56	Haze	Ice	Status	—	—%	30	Beautiful	3 ♥♥♥	0  
+60	Hydro Pump	Water	Special	110	80%	5	Beautiful	1 ♥	0  
+70	Night Slash	Dark	Physical	70	100%	15	Cool	3 ♥♥♥	0  
+75	Water Shuriken	Water	Physical	15	100%	20	Cool	3 ♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Agility	Psychic	Status	—	—%	30	Cool	3 ♥♥♥	0  
+1	Leer	Normal	Status	—	100%	30	Cool	2 ♥♥	1 ♥
+7	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+10	Double Slap	Normal	Physical	15	85%	20	Cute	1 ♥	0  
+13	Mud-Slap	Ground	Special	20	100%	10	Cute	3 ♥♥♥	0  
+15	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+18	Mud Shot	Ground	Special	55	95%	15	Tough	4 ♥♥♥♥	0  
+20	Double Kick	Fighting	Physical	30	100%	30	Cool	2 ♥♥	1 ♥
+25	Odor Sleuth	Normal	Status	—	—%	40	Clever	2 ♥♥	0  
+29	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+33	Dig	Ground	Physical	80	100%	10	Tough	2 ♥♥	0  
+38	Bounce	Flying	Physical	85	85%	5	Cute	1 ♥	0  
+42	Super Fang	Normal	Physical	—	90%	10	Tough	2 ♥♥	1 ♥
+47	Facade	Normal	Physical	70	100%	20	Cute	2 ♥♥	0  
+49	Earthquake	Ground	Physical	100	100%	10	Tough	2 ♥♥	1 ♥
+-
+1	Hammer Arm	Fighting	Physical	100	90%	10	Tough	6 ♥♥♥♥♥♥	0  
+1	Rototiller	Ground	Status	—	—%	10	Tough	1 ♥	0  
+1	Bulldoze	Ground	Physical	60	100%	20	Tough	2 ♥♥	2 ♥♥
+1	Swords Dance	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Agility	Psychic	Status	—	—%	30	Cool	3 ♥♥♥	0  
+1	Leer	Normal	Status	—	100%	30	Cool	2 ♥♥	1 ♥
+7	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+13	Mud-Slap	Ground	Special	20	100%	10	Cute	3 ♥♥♥	0  
+15	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+18	Mud Shot	Ground	Special	55	95%	15	Tough	4 ♥♥♥♥	0  
+20	Double Kick	Fighting	Physical	30	100%	30	Cool	2 ♥♥	1 ♥
+26	Odor Sleuth	Normal	Status	—	—%	40	Clever	2 ♥♥	0  
+31	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+37	Dig	Ground	Physical	80	100%	10	Tough	2 ♥♥	0  
+42	Bounce	Flying	Physical	85	85%	5	Cute	1 ♥	0  
+48	Super Fang	Normal	Physical	—	90%	10	Tough	2 ♥♥	1 ♥
+53	Facade	Normal	Physical	70	100%	20	Cute	2 ♥♥	0  
+57	Earthquake	Ground	Physical	100	100%	10	Tough	2 ♥♥	1 ♥
+60	Hammer Arm	Fighting	Physical	100	90%	10	Tough	6 ♥♥♥♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+6	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+10	Peck	Flying	Physical	35	100%	35	Cool	4 ♥♥♥♥	0  
+13	Agility	Psychic	Status	—	—%	30	Cool	3 ♥♥♥	0  
+16	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+21	Roost	Flying	Status	—	—%	10	Clever	4 ♥♥♥♥	0  
+25	Razor Wind	Normal	Special	80	100%	10	Cool	3 ♥♥♥	0  
+29	Natural Gift	Normal	Physical	—	100%	15	Clever	1 ♥	0  
+34	Flame Charge	Fire	Physical	50	100%	20	Cool	1 ♥	0  
+39	Acrobatics	Flying	Physical	55	100%	15	Cool	1 ♥	0  
+41	Me First	Normal	Status	—	—%	20	Clever	3 ♥♥♥	0  
+45	Tailwind	Flying	Status	—	—%	15	Cool	3 ♥♥♥	0  
+48	Steel Wing	Steel	Physical	70	90%	25	Cool	3 ♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+6	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+10	Peck	Flying	Physical	35	100%	35	Cool	4 ♥♥♥♥	0  
+13	Agility	Psychic	Status	—	—%	30	Cool	3 ♥♥♥	0  
+16	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+17	Ember	Fire	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+25	Roost	Flying	Status	—	—%	10	Clever	4 ♥♥♥♥	0  
+27	Razor Wind	Normal	Special	80	100%	10	Cool	3 ♥♥♥	0  
+31	Natural Gift	Normal	Physical	—	100%	15	Clever	1 ♥	0  
+38	Flame Charge	Fire	Physical	50	100%	20	Cool	1 ♥	0  
+42	Acrobatics	Flying	Physical	55	100%	15	Cool	1 ♥	0  
+46	Me First	Normal	Status	—	—%	20	Clever	3 ♥♥♥	0  
+51	Tailwind	Flying	Status	—	—%	15	Cool	3 ♥♥♥	0  
+55	Steel Wing	Steel	Physical	70	90%	25	Cool	3 ♥♥♥	0  
+-
+1	Brave Bird	Flying	Physical	120	100%	15	Cool	6 ♥♥♥♥♥♥	0  
+1	Flare Blitz	Fire	Physical	120	100%	15	Cool	6 ♥♥♥♥♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+6	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+10	Peck	Flying	Physical	35	100%	35	Cool	4 ♥♥♥♥	0  
+13	Agility	Psychic	Status	—	—%	30	Cool	3 ♥♥♥	0  
+16	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+17	Ember	Fire	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+25	Roost	Flying	Status	—	—%	10	Clever	4 ♥♥♥♥	0  
+27	Razor Wind	Normal	Special	80	100%	10	Cool	3 ♥♥♥	0  
+31	Natural Gift	Normal	Physical	—	100%	15	Clever	1 ♥	0  
+39	Flame Charge	Fire	Physical	50	100%	20	Cool	1 ♥	0  
+44	Acrobatics	Flying	Physical	55	100%	15	Cool	1 ♥	0  
+49	Me First	Normal	Status	—	—%	20	Clever	3 ♥♥♥	0  
+55	Tailwind	Flying	Status	—	—%	15	Cool	3 ♥♥♥	0  
+60	Steel Wing	Steel	Physical	70	90%	25	Cool	3 ♥♥♥	0  
+64	Brave Bird	Flying	Physical	120	100%	15	Cool	6 ♥♥♥♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	String Shot	Bug	Status	—	95%	40	Clever	2 ♥♥	3 ♥♥♥
+6	Stun Spore	Grass	Status	—	75%	30	Clever	2 ♥♥	1 ♥
+15	Bug Bite	Bug	Physical	60	100%	20	Cute	3 ♥♥♥	0  
+-
+1	Harden	Normal	Status	—	—%	30	Tough	2 ♥♥	0  
+9	Protect	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+-
+1	Poison Powder	Poison	Status	—	75%	35	Clever	3 ♥♥♥	0  
+1	Stun Spore	Grass	Status	—	75%	30	Clever	2 ♥♥	1 ♥
+1	Gust	Flying	Special	40	100%	35	Clever	2 ♥♥	3 ♥♥♥
+1	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+1	Powder	Bug	Status	—	100%	20	Clever	4 ♥♥♥♥	0  
+1	Sleep Powder	Grass	Status	—	75%	15	Clever	1 ♥	3 ♥♥♥
+12	Struggle Bug	Bug	Special	50	100%	20	Cute	2 ♥♥	0  
+17	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+21	Supersonic	Normal	Status	—	55%	20	Clever	3 ♥♥♥	0  
+25	Draining Kiss	Fairy	Special	50	100%	10	Cute	1 ♥	0  
+31	Aromatherapy	Grass	Status	—	—%	5	Clever	1 ♥	0  
+35	Bug Buzz	Bug	Special	90	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+41	Safeguard	Normal	Status	—	—%	25	Beautiful	2 ♥♥	0  
+45	Quiver Dance	Bug	Status	—	—%	20	Beautiful	1 ♥	0  
+50	Hurricane	Flying	Special	110	70%	10	Tough	2 ♥♥	1 ♥
+55	Powder	Bug	Status	—	100%	20	Clever	4 ♥♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Leer	Normal	Status	—	100%	30	Cool	2 ♥♥	1 ♥
+5	Ember	Fire	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+8	Work Up	Normal	Status	—	—%	30	Tough	3 ♥♥♥	0  
+11	Headbutt	Normal	Physical	70	100%	15	Tough	4 ♥♥♥♥	0  
+15	Noble Roar	Normal	Status	—	—%	30	Tough	2 ♥♥	0  
+20	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+23	Fire Fang	Fire	Physical	65	95%	15	Cool	4 ♥♥♥♥	0  
+28	Endeavor	Normal	Physical	—	100%	5	Tough	2 ♥♥	0  
+33	Echoed Voice	Normal	Special	40	100%	15	Beautiful	3 ♥♥♥	0  
+36	Flamethrower	Fire	Special	90	100%	15	Beautiful	4 ♥♥♥♥	0  
+39	Crunch	Dark	Physical	80	100%	15	Tough	1 ♥	4 ♥♥♥♥
+43	Hyper Voice	Normal	Special	90	100%	10	Cool	2 ♥♥	2 ♥♥
+46	Incinerate	Fire	Special	60	100%	15	Tough	3 ♥♥♥	0  
+50	Overheat	Fire	Special	130	90%	5	Beautiful	6 ♥♥♥♥♥♥	0  
+-
+1	Hyper Beam	Normal	Special	150	90%	5	Cool	4 ♥♥♥♥	4 ♥♥♥♥
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Leer	Normal	Status	—	100%	30	Cool	2 ♥♥	1 ♥
+5	Ember	Fire	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+8	Work Up	Normal	Status	—	—%	30	Tough	3 ♥♥♥	0  
+11	Headbutt	Normal	Physical	70	100%	15	Tough	4 ♥♥♥♥	0  
+15	Noble Roar	Normal	Status	—	—%	30	Tough	2 ♥♥	0  
+20	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+23	Fire Fang	Fire	Physical	65	95%	15	Cool	4 ♥♥♥♥	0  
+28	Endeavor	Normal	Physical	—	100%	5	Tough	2 ♥♥	0  
+33	Echoed Voice	Normal	Special	40	100%	15	Beautiful	3 ♥♥♥	0  
+38	Flamethrower	Fire	Special	90	100%	15	Beautiful	4 ♥♥♥♥	0  
+42	Crunch	Dark	Physical	80	100%	15	Tough	1 ♥	4 ♥♥♥♥
+48	Hyper Voice	Normal	Special	90	100%	10	Cool	2 ♥♥	2 ♥♥
+51	Incinerate	Fire	Special	60	100%	15	Tough	3 ♥♥♥	0  
+57	Overheat	Fire	Special	130	90%	5	Beautiful	6 ♥♥♥♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Vine Whip	Grass	Physical	45	100%	25	Cool	4 ♥♥♥♥	0  
+6	Fairy Wind	Fairy	Special	40	100%	30	Beautiful	4 ♥♥♥♥	0  
+10	Lucky Chant	Normal	Status	—	—%	30	Cute	1 ♥	0  
+15	Razor Leaf	Grass	Physical	55	95%	25	Cool	4 ♥♥♥♥	0  
+20	Wish	Normal	Status	—	—%	10	Cute	3 ♥♥♥	0  
+22	Magical Leaf	Grass	Special	60	—%	20	Beautiful	2 ♥♥	0  
+24	Grassy Terrain	Grass	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+28	Petal Blizzard	Grass	Physical	90	100%	15	Beautiful	2 ♥♥	2 ♥♥
+33	Aromatherapy	Grass	Status	—	—%	5	Clever	1 ♥	0  
+37	Misty Terrain	Fairy	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+41	Moonblast	Fairy	Special	95	100%	15	Beautiful	1 ♥	4 ♥♥♥♥
+45	Petal Dance	Grass	Special	120	100%	10	Beautiful	6 ♥♥♥♥♥♥	0  
+48	Solar Beam	Grass	Special	120	100%	10	Cool	3 ♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Vine Whip	Grass	Physical	45	100%	25	Cool	4 ♥♥♥♥	0  
+6	Fairy Wind	Fairy	Special	40	100%	30	Beautiful	4 ♥♥♥♥	0  
+10	Lucky Chant	Normal	Status	—	—%	30	Cute	1 ♥	0  
+15	Razor Leaf	Grass	Physical	55	95%	25	Cool	4 ♥♥♥♥	0  
+20	Wish	Normal	Status	—	—%	10	Cute	3 ♥♥♥	0  
+25	Magical Leaf	Grass	Special	60	—%	20	Beautiful	2 ♥♥	0  
+27	Grassy Terrain	Grass	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+33	Petal Blizzard	Grass	Physical	90	100%	15	Beautiful	2 ♥♥	2 ♥♥
+38	Aromatherapy	Grass	Status	—	—%	5	Clever	1 ♥	0  
+43	Misty Terrain	Fairy	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+46	Moonblast	Fairy	Special	95	100%	15	Beautiful	1 ♥	4 ♥♥♥♥
+51	Petal Dance	Grass	Special	120	100%	10	Beautiful	6 ♥♥♥♥♥♥	0  
+58	Solar Beam	Grass	Special	120	100%	10	Cool	3 ♥♥♥	0  
+-
+1	Disarming Voice	Fairy	Special	40	—%	15	Cute	2 ♥♥	0  
+1	Lucky Chant	Normal	Status	—	—%	30	Cute	1 ♥	0  
+1	Wish	Normal	Status	—	—%	10	Cute	3 ♥♥♥	0  
+1	Magical Leaf	Grass	Special	60	—%	20	Beautiful	2 ♥♥	0  
+1	Flower Shield	Fairy	Status	—	—%	10	Beautiful	1 ♥	0  
+1	Grass Knot	Grass	Special	—	100%	20	Cute	1 ♥	0  
+1	Grassy Terrain	Grass	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+1	Petal Blizzard	Grass	Physical	90	100%	15	Beautiful	2 ♥♥	2 ♥♥
+1	Misty Terrain	Fairy	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+1	Moonblast	Fairy	Special	95	100%	15	Beautiful	1 ♥	4 ♥♥♥♥
+1	Petal Dance	Grass	Special	120	100%	10	Beautiful	6 ♥♥♥♥♥♥	0  
+1	Aromatherapy	Grass	Status	—	—%	5	Clever	1 ♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growth	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+7	Vine Whip	Grass	Physical	45	100%	25	Cool	4 ♥♥♥♥	0  
+9	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+12	Leech Seed	Grass	Status	—	90%	10	Clever	1 ♥	0  
+13	Razor Leaf	Grass	Physical	55	95%	25	Cool	4 ♥♥♥♥	0  
+16	Worry Seed	Grass	Status	—	100%	10	Clever	2 ♥♥	0  
+20	Synthesis	Grass	Status	—	—%	5	Clever	1 ♥	0  
+22	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+26	Bulldoze	Ground	Physical	60	100%	20	Tough	2 ♥♥	2 ♥♥
+30	Seed Bomb	Grass	Physical	80	95%	15	Tough	4 ♥♥♥♥	0  
+34	Bulk Up	Fighting	Status	—	—%	20	Cool	1 ♥	0  
+38	Double-Edge	Normal	Physical	120	100%	15	Tough	6 ♥♥♥♥♥♥	0  
+42	Horn Leech	Grass	Physical	75	100%	10	Tough	1 ♥	0  
+45	Leaf Blade	Grass	Physical	90	100%	15	Cool	3 ♥♥♥	0  
+50	Milk Drink	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+-
+1	Aerial Ace	Flying	Physical	60	—%	20	Cool	2 ♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growth	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+7	Vine Whip	Grass	Physical	45	100%	25	Cool	4 ♥♥♥♥	0  
+9	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+12	Leech Seed	Grass	Status	—	90%	10	Clever	1 ♥	0  
+13	Razor Leaf	Grass	Physical	55	95%	25	Cool	4 ♥♥♥♥	0  
+16	Worry Seed	Grass	Status	—	100%	10	Clever	2 ♥♥	0  
+20	Synthesis	Grass	Status	—	—%	5	Clever	1 ♥	0  
+22	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+26	Bulldoze	Ground	Physical	60	100%	20	Tough	2 ♥♥	2 ♥♥
+30	Seed Bomb	Grass	Physical	80	100%	15	Tough	4 ♥♥♥♥	0  
+34	Bulk Up	Fighting	Status	—	—%	20	Cool	1 ♥	0  
+40	Double-Edge	Normal	Physical	120	100%	15	Tough	6 ♥♥♥♥♥♥	0  
+47	Horn Leech	Grass	Physical	75	100%	10	Tough	1 ♥	0  
+55	Leaf Blade	Grass	Physical	90	100%	15	Cool	3 ♥♥♥	0  
+58	Milk Drink	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+60	Earthquake	Ground	Physical	100	100%	10	Tough	2 ♥♥	1 ♥
+65	Aerial Ace	Flying	Physical	60	—%	20	Cool	2 ♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Leer	Normal	Status	—	100%	30	Cool	2 ♥♥	1 ♥
+7	Arm Thrust	Fighting	Physical	15	100%	20	Tough	1 ♥	0  
+10	Work Up	Normal	Status	—	—%	30	Tough	3 ♥♥♥	0  
+12	Karate Chop	Fighting	Physical	50	100%	25	Tough	4 ♥♥♥♥	0  
+15	Comet Punch	Normal	Physical	18	85%	15	Tough	1 ♥	0  
+20	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+25	Circle Throw	Fighting	Physical	60	90%	10	Cool	3 ♥♥♥	0  
+27	Vital Throw	Fighting	Physical	70	—%	20	Cool	2 ♥♥	0  
+33	Body Slam	Normal	Physical	85	100%	15	Tough	1 ♥	4 ♥♥♥♥
+39	Crunch	Dark	Physical	80	100%	15	Tough	1 ♥	4 ♥♥♥♥
+42	Entrainment	Normal	Status	—	100%	15	Cute	2 ♥♥	1 ♥
+45	Parting Shot	Dark	Status	—	100%	20	Cool	3 ♥♥♥	0  
+48	Sky Uppercut	Fighting	Physical	85	90%	15	Cool	2 ♥♥	1 ♥
+-
+1	Entrainment	Normal	Status	—	100%	15	Cute	2 ♥♥	1 ♥
+1	Hammer Arm	Fighting	Physical	100	90%	10	Tough	6 ♥♥♥♥♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Leer	Normal	Status	—	100%	30	Cool	2 ♥♥	1 ♥
+7	Arm Thrust	Fighting	Physical	15	100%	20	Tough	1 ♥	0  
+10	Work Up	Normal	Status	—	—%	30	Tough	3 ♥♥♥	0  
+12	Karate Chop	Fighting	Physical	50	100%	25	Tough	4 ♥♥♥♥	0  
+15	Comet Punch	Normal	Physical	18	85%	15	Tough	1 ♥	0  
+20	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+25	Circle Throw	Fighting	Physical	60	90%	10	Cool	3 ♥♥♥	0  
+27	Vital Throw	Fighting	Physical	70	—%	20	Cool	2 ♥♥	0  
+35	Body Slam	Normal	Physical	85	100%	15	Tough	1 ♥	4 ♥♥♥♥
+42	Crunch	Dark	Physical	80	100%	15	Tough	1 ♥	4 ♥♥♥♥
+45	Entrainment	Normal	Status	—	100%	15	Cute	2 ♥♥	1 ♥
+48	Parting Shot	Dark	Status	—	100%	20	Cool	3 ♥♥♥	0  
+52	Sky Uppercut	Fighting	Physical	85	90%	15	Cool	2 ♥♥	1 ♥
+57	Hammer Arm	Fighting	Physical	100	90%	10	Tough	6 ♥♥♥♥♥♥	0  
+65	Taunt	Dark	Status	—	100%	20	Clever	2 ♥♥	1 ♥
+70	Low Sweep	Fighting	Physical	65	100%	20	Clever	2 ♥♥	3 ♥♥♥
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+5	Sand Attack	Ground	Status	—	100%	15	Cute	3 ♥♥♥	0  
+9	Baby-Doll Eyes	Fairy	Status	—	100%	30	Cute	3 ♥♥♥	0  
+12	Headbutt	Normal	Physical	70	100%	15	Tough	4 ♥♥♥♥	0  
+15	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+22	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+27	Odor Sleuth	Normal	Status	—	—%	40	Clever	2 ♥♥	0  
+33	Retaliate	Normal	Physical	70	100%	5	Cool	3 ♥♥♥	0  
+35	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+38	Charm	Fairy	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+42	Sucker Punch	Dark	Physical	80	100%	5	Clever	3 ♥♥♥	0  
+48	Cotton Guard	Grass	Status	—	—%	10	Cute	1 ♥	0  
+-
+1	Scratch	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Leer	Normal	Status	—	100%	30	Cool	2 ♥♥	1 ♥
+5	Covet	Normal	Physical	60	100%	25	Cute	1 ♥	0  
+9	Confusion	Psychic	Special	50	100%	25	Clever	4 ♥♥♥♥	0  
+13	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+17	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+19	Fake Out	Normal	Physical	40	100%	10	Cute	2 ♥♥	3 ♥♥♥
+22	Disarming Voice	Fairy	Special	40	—%	15	Cute	2 ♥♥	0  
+25	Psyshock	Psychic	Special	80	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+-
+1	Quick Guard	Fighting	Status	—	—%	15	Cool	2 ♥♥	0  
+1	Mean Look	Normal	Status	—	—%	5	Beautiful	2 ♥♥	0  
+1	Helping Hand	Normal	Status	—	—%	20	Clever	4 ♥♥♥♥	0  
+1	Scratch	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Leer	Normal	Status	—	100%	30	Cool	2 ♥♥	1 ♥
+5	Covet	Normal	Physical	60	100%	25	Cute	1 ♥	0  
+9	Confusion	Psychic	Special	50	100%	25	Clever	4 ♥♥♥♥	0  
+13	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+17	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+19	Fake Out	Normal	Physical	40	100%	10	Cute	2 ♥♥	3 ♥♥♥
+22	Disarming Voice	Fairy	Special	40	—%	15	Cute	2 ♥♥	0  
+25	Psyshock	Psychic	Special	80	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+28	Charm	Fairy	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+31	Miracle Eye	Psychic	Status	—	—%	40	Clever	2 ♥♥	0  
+35	Reflect	Psychic	Status	—	—%	20	Clever	2 ♥♥	0  
+40	Psychic	Psychic	Special	90	100%	10	Clever	4 ♥♥♥♥	0  
+43	Role Play	Psychic	Status	—	—%	10	Cute	1 ♥	0  
+45	Imprison	Psychic	Status	—	—%	10	Clever	3 ♥♥♥	0  
+48	Sucker Punch	Dark	Physical	80	100%	5	Clever	3 ♥♥♥	0  
+50	Misty Terrain	Fairy	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+53	Quick Guard	Fighting	Status	—	—%	15	Cool	2 ♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Swords Dance	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+5	Fury Cutter	Bug	Physical	40	95%	20	Cool	3 ♥♥♥	0  
+8	Metal Sound	Steel	Status	—	85%	40	Clever	1 ♥	3 ♥♥♥
+13	Pursuit	Dark	Physical	40	100%	20	Clever	2 ♥♥	1 ♥
+18	Autotomize	Steel	Status	—	—%	15	Beautiful	1 ♥	0  
+20	Shadow Sneak	Ghost	Physical	40	100%	30	Clever	3 ♥♥♥	0  
+22	Aerial Ace	Flying	Physical	60	—%	20	Cool	2 ♥♥	0  
+26	Retaliate	Normal	Physical	70	100%	5	Cool	3 ♥♥♥	0  
+29	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+32	Iron Defense	Steel	Status	—	—%	15	Tough	1 ♥	0  
+35	Night Slash	Dark	Physical	70	100%	15	Cool	3 ♥♥♥	0  
+39	Power Trick	Psychic	Status	—	—%	10	Clever	2 ♥♥	0  
+42	Iron Head	Steel	Physical	80	100%	15	Tough	4 ♥♥♥♥	0  
+47	Sacred Sword	Fighting	Physical	90	100%	15	Cool	2 ♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Swords Dance	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+5	Fury Cutter	Bug	Physical	40	95%	20	Cool	3 ♥♥♥	0  
+8	Metal Sound	Steel	Status	—	85%	40	Clever	1 ♥	3 ♥♥♥
+13	Pursuit	Dark	Physical	40	100%	20	Clever	2 ♥♥	1 ♥
+18	Autotomize	Steel	Status	—	—%	15	Beautiful	1 ♥	0  
+20	Shadow Sneak	Ghost	Physical	40	100%	30	Clever	3 ♥♥♥	0  
+22	Aerial Ace	Flying	Physical	60	—%	20	Cool	2 ♥♥	0  
+26	Retaliate	Normal	Physical	70	100%	5	Cool	3 ♥♥♥	0  
+29	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+32	Iron Defense	Steel	Status	—	—%	15	Tough	1 ♥	0  
+36	Night Slash	Dark	Physical	70	100%	15	Cool	3 ♥♥♥	0  
+41	Power Trick	Psychic	Status	—	—%	10	Clever	2 ♥♥	0  
+45	Iron Head	Steel	Physical	80	100%	15	Tough	4 ♥♥♥♥	0  
+51	Sacred Sword	Fighting	Physical	90	100%	15	Cool	2 ♥♥	0  
+-
+1	Fury Cutter	Bug	Physical	40	95%	20	Cool	3 ♥♥♥	0  
+1	Pursuit	Dark	Physical	40	100%	20	Clever	2 ♥♥	1 ♥
+1	Autotomize	Steel	Status	—	—%	15	Beautiful	1 ♥	0  
+1	Shadow Sneak	Ghost	Physical	40	100%	30	Clever	3 ♥♥♥	0  
+1	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+1	Iron Defense	Steel	Status	—	—%	15	Tough	1 ♥	0  
+1	Night Slash	Dark	Physical	70	100%	15	Cool	3 ♥♥♥	0  
+1	Power Trick	Psychic	Status	—	—%	10	Clever	2 ♥♥	0  
+1	Iron Head	Steel	Physical	80	100%	15	Tough	4 ♥♥♥♥	0  
+1	Head Smash	Rock	Physical	150	80%	5	Tough	6 ♥♥♥♥♥♥	0  
+1	Swords Dance	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+1	Aerial Ace	Flying	Physical	60	—%	20	Cool	2 ♥♥	0  
+1	King's Shield	Steel	Status	—	—%	10	Cool	1 ♥	0  
+1	Sacred Sword	Fighting	Physical	90	100%	15	Cool	2 ♥♥	0  
+-
+1	Sweet Scent	Normal	Status	—	100%	20	Cute	2 ♥♥	0  
+1	Fairy Wind	Fairy	Special	40	100%	30	Beautiful	4 ♥♥♥♥	0  
+6	Sweet Kiss	Fairy	Status	—	75%	10	Cute	2 ♥♥	0  
+8	Odor Sleuth	Normal	Status	—	—%	40	Clever	2 ♥♥	0  
+13	Echoed Voice	Normal	Special	40	100%	15	Beautiful	3 ♥♥♥	0  
+17	Calm Mind	Psychic	Status	—	—%	20	Clever	1 ♥	0  
+21	Draining Kiss	Fairy	Special	50	100%	10	Cute	1 ♥	0  
+25	Aromatherapy	Grass	Status	—	—%	5	Clever	1 ♥	0  
+29	Attract	Normal	Status	—	100%	15	Cute	2 ♥♥	0  
+31	Moonblast	Fairy	Special	95	100%	15	Beautiful	1 ♥	4 ♥♥♥♥
+35	Charm	Fairy	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+38	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+42	Misty Terrain	Fairy	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+44	Skill Swap	Psychic	Status	—	—%	10	Clever	1 ♥	0  
+48	Psychic	Psychic	Special	90	100%	10	Clever	4 ♥♥♥♥	0  
+50	Disarming Voice	Fairy	Special	40	—%	15	Cute	2 ♥♥	0  
+-
+1	Aromatic Mist	Fairy	Status	—	100%	20	Beautiful	1 ♥	0  
+1	Heal Pulse	Psychic	Status	—	—%	10	Beautiful	2 ♥♥	0  
+1	Sweet Scent	Normal	Status	—	100%	20	Cute	2 ♥♥	0  
+1	Fairy Wind	Fairy	Special	40	100%	30	Beautiful	4 ♥♥♥♥	0  
+6	Sweet Kiss	Fairy	Status	—	75%	10	Cute	2 ♥♥	0  
+8	Odor Sleuth	Normal	Status	—	—%	40	Clever	2 ♥♥	0  
+13	Echoed Voice	Normal	Special	40	100%	15	Beautiful	3 ♥♥♥	0  
+17	Calm Mind	Psychic	Status	—	—%	20	Clever	1 ♥	0  
+21	Draining Kiss	Fairy	Special	50	100%	10	Cute	1 ♥	0  
+25	Aromatherapy	Grass	Status	—	—%	5	Clever	1 ♥	0  
+29	Attract	Normal	Status	—	100%	15	Cute	2 ♥♥	0  
+31	Moonblast	Fairy	Special	95	100%	15	Beautiful	1 ♥	4 ♥♥♥♥
+35	Charm	Fairy	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+38	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+42	Misty Terrain	Fairy	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+44	Skill Swap	Psychic	Status	—	—%	10	Clever	1 ♥	0  
+48	Psychic	Psychic	Special	90	100%	10	Clever	4 ♥♥♥♥	0  
+50	Disarming Voice	Fairy	Special	40	—%	15	Cute	2 ♥♥	0  
+57	Reflect	Psychic	Status	—	—%	20	Clever	2 ♥♥	0  
+64	Psych Up	Normal	Status	—	—%	10	Clever	2 ♥♥	0  
+-
+1	Sweet Scent	Normal	Status	—	100%	20	Cute	2 ♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+5	Fairy Wind	Fairy	Special	40	100%	30	Beautiful	4 ♥♥♥♥	0  
+8	Play Nice	Normal	Status	—	—%	20	Cute	1 ♥	0  
+10	Fake Tears	Dark	Status	—	100%	20	Cute	4 ♥♥♥♥	0  
+13	Round	Normal	Special	60	100%	15	Beautiful	2 ♥♥	0  
+17	Cotton Spore	Grass	Status	—	100%	40	Beautiful	2 ♥♥	1 ♥
+21	Endeavor	Normal	Physical	—	100%	5	Tough	2 ♥♥	0  
+26	Aromatherapy	Grass	Status	—	—%	5	Clever	1 ♥	0  
+31	Draining Kiss	Fairy	Special	50	100%	10	Cute	1 ♥	0  
+36	Energy Ball	Grass	Special	90	100%	10	Beautiful	4 ♥♥♥♥	0  
+41	Cotton Guard	Grass	Status	—	—%	10	Cute	1 ♥	0  
+45	Wish	Normal	Status	—	—%	10	Cute	3 ♥♥♥	0  
+49	Play Rough	Fairy	Physical	90	90%	10	Cute	3 ♥♥♥	0  
+58	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+67	Safeguard	Normal	Status	—	—%	25	Beautiful	2 ♥♥	0  
+-
+1	Sweet Scent	Normal	Status	—	100%	20	Cute	2 ♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+5	Fairy Wind	Fairy	Special	40	100%	30	Beautiful	4 ♥♥♥♥	0  
+8	Play Nice	Normal	Status	—	—%	20	Cute	1 ♥	0  
+10	Fake Tears	Dark	Status	—	100%	20	Cute	4 ♥♥♥♥	0  
+13	Round	Normal	Special	60	100%	15	Beautiful	2 ♥♥	0  
+17	Cotton Spore	Grass	Status	—	100%	40	Beautiful	2 ♥♥	1 ♥
+21	Endeavor	Normal	Physical	—	100%	5	Tough	2 ♥♥	0  
+26	Aromatherapy	Grass	Status	—	—%	5	Clever	1 ♥	0  
+31	Draining Kiss	Fairy	Special	50	100%	10	Cute	1 ♥	0  
+36	Energy Ball	Grass	Special	90	100%	10	Beautiful	4 ♥♥♥♥	0  
+41	Cotton Guard	Grass	Status	—	—%	10	Cute	1 ♥	0  
+45	Wish	Normal	Status	—	—%	10	Cute	3 ♥♥♥	0  
+49	Play Rough	Fairy	Physical	90	90%	10	Cute	3 ♥♥♥	0  
+58	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+67	Safeguard	Normal	Status	—	—%	25	Beautiful	2 ♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Peck	Flying	Physical	35	100%	35	Cool	4 ♥♥♥♥	0  
+1	Constrict	Normal	Physical	10	100%	35	Tough	3 ♥♥♥	0  
+4	Reflect	Psychic	Status	—	—%	20	Clever	2 ♥♥	0  
+7	Foul Play	Dark	Physical	95	100%	15	Clever	1 ♥	0  
+12	Swagger	Normal	Status	—	90%	20	Cute	3 ♥♥♥	0  
+13	Psywave	Psychic	Special	—	100%	15	Clever	1 ♥	0  
+15	Topsy-Turvy	Dark	Status	—	100%	20	Clever	3 ♥♥♥	0  
+18	Hypnosis	Psychic	Status	—	60%	20	Clever	1 ♥	3 ♥♥♥
+21	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+23	Switcheroo	Dark	Status	—	100%	10	Clever	2 ♥♥	1 ♥
+27	Payback	Dark	Physical	50	100%	10	Tough	2 ♥♥	0  
+31	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+35	Pluck	Flying	Physical	60	100%	20	Cute	3 ♥♥♥	0  
+39	Psycho Cut	Psychic	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+43	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+46	Night Slash	Dark	Physical	70	100%	15	Cool	3 ♥♥♥	0  
+48	Superpower	Fighting	Physical	120	100%	5	Tough	6 ♥♥♥♥♥♥	0  
+-
+1	Superpower	Fighting	Physical	120	100%	5	Tough	6 ♥♥♥♥♥♥	0  
+1	Reversal	Fighting	Physical	—	100%	15	Cool	1 ♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Peck	Flying	Physical	35	100%	35	Cool	4 ♥♥♥♥	0  
+1	Constrict	Normal	Physical	10	100%	35	Tough	3 ♥♥♥	0  
+4	Reflect	Psychic	Status	—	—%	20	Clever	2 ♥♥	0  
+7	Foul Play	Dark	Physical	95	100%	15	Clever	1 ♥	0  
+12	Swagger	Normal	Status	—	90%	20	Cute	3 ♥♥♥	0  
+13	Psywave	Psychic	Special	—	100%	15	Clever	1 ♥	0  
+15	Topsy-Turvy	Dark	Status	—	100%	20	Clever	3 ♥♥♥	0  
+18	Hypnosis	Psychic	Status	—	60%	20	Clever	1 ♥	3 ♥♥♥
+21	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+23	Switcheroo	Dark	Status	—	100%	10	Clever	2 ♥♥	1 ♥
+27	Payback	Dark	Physical	50	100%	10	Tough	2 ♥♥	0  
+31	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+35	Pluck	Flying	Physical	60	100%	20	Cute	3 ♥♥♥	0  
+39	Psycho Cut	Psychic	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+43	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+46	Night Slash	Dark	Physical	70	100%	15	Cool	3 ♥♥♥	0  
+48	Superpower	Fighting	Physical	120	100%	5	Tough	6 ♥♥♥♥♥♥	0  
+-
+1	Shell Smash	Normal	Status	—	—%	15	Tough	3 ♥♥♥	0  
+1	Scratch	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Sand Attack	Ground	Status	—	100%	15	Cute	3 ♥♥♥	0  
+4	Water Gun	Water	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+7	Withdraw	Water	Status	—	—%	40	Cute	2 ♥♥	0  
+10	Fury Swipes	Normal	Physical	18	80%	15	Tough	1 ♥	0  
+13	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+18	Mud-Slap	Ground	Special	20	100%	10	Cute	3 ♥♥♥	0  
+20	Clamp	Water	Physical	35	85%	15	Tough	3 ♥♥♥	0  
+24	Rock Polish	Rock	Status	—	—%	20	Tough	3 ♥♥♥	0  
+28	Ancient Power	Rock	Special	60	100%	5	Tough	1 ♥	0  
+32	Hone Claws	Dark	Status	—	—%	15	Cute	1 ♥	0  
+37	Fury Cutter	Bug	Physical	40	95%	20	Cool	3 ♥♥♥	0  
+41	Night Slash	Dark	Physical	70	100%	15	Cool	3 ♥♥♥	0  
+45	Razor Shell	Water	Physical	75	95%	10	Cool	3 ♥♥♥	0  
+49	Cross Chop	Fighting	Physical	100	80%	5	Cool	3 ♥♥♥	0  
+-
+1	Stone Edge	Rock	Physical	100	80%	5	Tough	3 ♥♥♥	0  
+1	Skull Bash	Normal	Physical	130	100%	10	Tough	3 ♥♥♥	0  
+1	Shell Smash	Normal	Status	—	—%	15	Tough	3 ♥♥♥	0  
+1	Scratch	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Sand Attack	Ground	Status	—	100%	15	Cute	3 ♥♥♥	0  
+4	Water Gun	Water	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+7	Withdraw	Water	Status	—	—%	40	Cute	2 ♥♥	0  
+10	Fury Swipes	Normal	Physical	18	80%	15	Tough	1 ♥	0  
+13	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+18	Mud-Slap	Ground	Special	20	100%	10	Cute	3 ♥♥♥	0  
+20	Clamp	Water	Physical	35	85%	15	Tough	3 ♥♥♥	0  
+24	Rock Polish	Rock	Status	—	—%	20	Tough	3 ♥♥♥	0  
+28	Ancient Power	Rock	Special	60	100%	5	Tough	1 ♥	0  
+32	Hone Claws	Dark	Status	—	—%	15	Cute	1 ♥	0  
+37	Fury Cutter	Bug	Physical	40	95%	20	Cool	3 ♥♥♥	0  
+44	Night Slash	Dark	Physical	70	100%	15	Cool	3 ♥♥♥	0  
+48	Razor Shell	Water	Physical	75	95%	10	Cool	3 ♥♥♥	0  
+55	Cross Chop	Fighting	Physical	100	80%	5	Cool	3 ♥♥♥	0  
+60	Stone Edge	Rock	Physical	100	80%	5	Tough	3 ♥♥♥	0  
+65	Skull Bash	Normal	Physical	130	100%	10	Tough	3 ♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Smokescreen	Normal	Status	—	100%	20	Clever	2 ♥♥	3 ♥♥♥
+1	Water Gun	Water	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+5	Feint Attack	Dark	Physical	60	—%	20	Clever	2 ♥♥	0  
+9	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+12	Bubble	Water	Special	40	100%	30	Cute	4 ♥♥♥♥	0  
+15	Acid	Poison	Special	40	100%	30	Clever	3 ♥♥♥	0  
+19	Camouflage	Normal	Status	—	—%	20	Clever	1 ♥	0  
+23	Poison Tail	Poison	Physical	50	100%	25	Clever	3 ♥♥♥	0  
+25	Water Pulse	Water	Special	60	100%	20	Beautiful	3 ♥♥♥	0  
+28	Double Team	Normal	Status	—	—%	15	Cool	1 ♥	0  
+32	Toxic	Poison	Status	—	90%	10	Clever	3 ♥♥♥	0  
+35	Aqua Tail	Water	Physical	90	90%	10	Beautiful	4 ♥♥♥♥	0  
+38	Sludge Bomb	Poison	Special	90	100%	10	Tough	2 ♥♥	1 ♥
+42	Hydro Pump	Water	Special	110	80%	5	Beautiful	1 ♥	0  
+49	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+-
+1	Dragon Tail	Dragon	Physical	60	90%	10	Tough	3 ♥♥♥	0  
+1	Twister	Dragon	Special	40	100%	20	Cool	4 ♥♥♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Smokescreen	Normal	Status	—	100%	20	Clever	2 ♥♥	3 ♥♥♥
+1	Water Gun	Water	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+5	Feint Attack	Dark	Physical	60	—%	20	Clever	2 ♥♥	0  
+9	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+12	Bubble	Water	Special	40	100%	30	Cute	4 ♥♥♥♥	0  
+15	Acid	Poison	Special	40	100%	30	Clever	3 ♥♥♥	0  
+19	Camouflage	Normal	Status	—	—%	20	Clever	1 ♥	0  
+23	Poison Tail	Poison	Physical	50	100%	25	Clever	3 ♥♥♥	0  
+25	Water Pulse	Water	Special	60	100%	20	Beautiful	3 ♥♥♥	0  
+28	Double Team	Normal	Status	—	—%	15	Cool	1 ♥	0  
+32	Toxic	Poison	Status	—	90%	10	Clever	3 ♥♥♥	0  
+35	Aqua Tail	Water	Physical	90	90%	10	Beautiful	4 ♥♥♥♥	0  
+38	Sludge Bomb	Poison	Special	90	100%	10	Tough	2 ♥♥	1 ♥
+42	Hydro Pump	Water	Special	110	80%	5	Beautiful	1 ♥	0  
+53	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+59	Dragon Tail	Dragon	Physical	60	90%	10	Tough	3 ♥♥♥	0  
+67	Twister	Dragon	Special	40	100%	20	Cool	4 ♥♥♥♥	0  
+-
+1	Splash	Normal	Status	—	—%	40	Cute	4 ♥♥♥♥	0  
+1	Water Gun	Water	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+7	Water Sport	Water	Status	—	—%	15	Cute	2 ♥♥	0  
+9	Vice Grip	Normal	Physical	55	100%	30	Tough	4 ♥♥♥♥	0  
+12	Bubble	Water	Special	40	100%	30	Cute	4 ♥♥♥♥	0  
+16	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+20	Bubble Beam	Water	Special	65	100%	20	Beautiful	2 ♥♥	3 ♥♥♥
+25	Swords Dance	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+30	Crabhammer	Water	Physical	100	90%	10	Tough	3 ♥♥♥	0  
+34	Water Pulse	Water	Special	60	100%	20	Beautiful	3 ♥♥♥	0  
+39	Smack Down	Rock	Physical	50	100%	15	Tough	2 ♥♥	1 ♥
+43	Aqua Jet	Water	Physical	40	100%	20	Cool	3 ♥♥♥	0  
+48	Muddy Water	Water	Special	90	85%	10	Tough	2 ♥♥	2 ♥♥
+-
+1	Heal Pulse	Psychic	Status	—	—%	10	Beautiful	2 ♥♥	0  
+1	Dark Pulse	Dark	Special	80	100%	15	Cool	4 ♥♥♥♥	0  
+1	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+1	Aura Sphere	Fighting	Special	80	—%	20	Beautiful	2 ♥♥	0  
+1	Splash	Normal	Status	—	—%	40	Cute	4 ♥♥♥♥	0  
+1	Water Gun	Water	Special	40	100%	25	Cute	4 ♥♥♥♥	0  
+7	Water Sport	Water	Status	—	—%	15	Cute	2 ♥♥	0  
+9	Vice Grip	Normal	Physical	55	100%	30	Tough	4 ♥♥♥♥	0  
+12	Bubble	Water	Special	40	100%	30	Cute	4 ♥♥♥♥	0  
+16	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+20	Bubble Beam	Water	Special	65	100%	20	Beautiful	2 ♥♥	3 ♥♥♥
+25	Swords Dance	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+30	Crabhammer	Water	Physical	100	90%	10	Tough	3 ♥♥♥	0  
+34	Water Pulse	Water	Special	60	100%	20	Beautiful	3 ♥♥♥	0  
+42	Smack Down	Rock	Physical	50	100%	15	Tough	2 ♥♥	1 ♥
+47	Aqua Jet	Water	Physical	40	100%	20	Cool	3 ♥♥♥	0  
+53	Muddy Water	Water	Special	90	85%	10	Tough	2 ♥♥	2 ♥♥
+57	Dark Pulse	Dark	Special	80	100%	15	Cool	4 ♥♥♥♥	0  
+63	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+67	Aura Sphere	Fighting	Special	80	—%	20	Beautiful	2 ♥♥	0  
+-
+1	Pound	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+6	Thunder Shock	Electric	Special	40	100%	30	Cool	4 ♥♥♥♥	0  
+11	Charge	Electric	Status	—	—%	20	Clever	1 ♥	0  
+13	Mud-Slap	Ground	Special	20	100%	10	Cute	3 ♥♥♥	0  
+17	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+22	Razor Wind	Normal	Special	80	100%	10	Cool	3 ♥♥♥	0  
+25	Parabolic Charge	Electric	Special	50	100%	20	Clever	1 ♥	0  
+31	Thunder Wave	Electric	Status	—	100%	20	Cool	1 ♥	3 ♥♥♥
+35	Bulldoze	Ground	Physical	60	100%	20	Tough	2 ♥♥	2 ♥♥
+40	Volt Switch	Electric	Special	70	100%	20	Cool	4 ♥♥♥♥	0  
+45	Electrify	Electric	Status	—	—%	15	Clever	2 ♥♥	1 ♥
+49	Thunderbolt	Electric	Special	90	100%	15	Cool	4 ♥♥♥♥	0  
+-
+1	Eerie Impulse	Electric	Status	—	100%	15	Clever	1 ♥	3 ♥♥♥
+1	Electrify	Electric	Status	—	—%	20	Clever	2 ♥♥	1 ♥
+1	Razor Wind	Normal	Special	80	100%	10	Cool	3 ♥♥♥	0  
+1	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+1	Thunder	Electric	Special	110	70%	10	Cool	1 ♥	0  
+1	Charge	Electric	Status	—	—%	20	Clever	1 ♥	0  
+1	Parabolic Charge	Electric	Special	50	100%	20	Clever	1 ♥	0  
+-
+1	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+6	Roar	Normal	Status	—	—%	20	Cool	3 ♥♥♥	0  
+10	Stomp	Normal	Physical	65	100%	20	Tough	4 ♥♥♥♥	0  
+12	Bide	Normal	Status	—	—%	10	Tough	3 ♥♥♥	0  
+15	Stealth Rock	Rock	Status	—	—%	20	Cool	2 ♥♥	0  
+17	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+20	Charm	Fairy	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+26	Ancient Power	Rock	Special	60	100%	5	Tough	1 ♥	0  
+30	Dragon Tail	Dragon	Physical	60	90%	10	Tough	3 ♥♥♥	0  
+34	Crunch	Dark	Physical	80	100%	15	Tough	1 ♥	4 ♥♥♥♥
+37	Dragon Claw	Dragon	Physical	80	100%	15	Cool	4 ♥♥♥♥	0  
+40	Thrash	Normal	Physical	120	100%	10	Tough	6 ♥♥♥♥♥♥	0  
+44	Earthquake	Ground	Physical	100	100%	10	Tough	2 ♥♥	1 ♥
+49	Horn Drill	Normal	Physical	—	—%	5	Cool	2 ♥♥	1 ♥
+-
+1	Head Smash	Rock	Physical	150	80%	5	Tough	6 ♥♥♥♥♥♥	0  
+1	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+6	Roar	Normal	Status	—	—%	20	Cool	3 ♥♥♥	0  
+10	Stomp	Normal	Physical	65	100%	20	Tough	4 ♥♥♥♥	0  
+12	Bide	Normal	Status	—	—%	10	Tough	3 ♥♥♥	0  
+15	Stealth Rock	Rock	Status	—	—%	20	Cool	2 ♥♥	0  
+17	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+20	Charm	Fairy	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+26	Ancient Power	Rock	Special	60	100%	5	Tough	1 ♥	0  
+30	Dragon Tail	Dragon	Physical	60	90%	10	Tough	3 ♥♥♥	0  
+34	Crunch	Dark	Physical	80	100%	15	Tough	1 ♥	4 ♥♥♥♥
+37	Dragon Claw	Dragon	Physical	80	100%	15	Cool	4 ♥♥♥♥	0  
+42	Thrash	Normal	Physical	120	100%	10	Tough	6 ♥♥♥♥♥♥	0  
+47	Earthquake	Ground	Physical	100	100%	10	Tough	2 ♥♥	1 ♥
+53	Horn Drill	Normal	Physical	—	—%	5	Cool	2 ♥♥	1 ♥
+58	Head Smash	Rock	Physical	150	80%	5	Tough	6 ♥♥♥♥♥♥	0  
+68	Rock Slide	Rock	Physical	75	90%	10	Tough	2 ♥♥	2 ♥♥
+75	Giga Impact	Normal	Physical	150	90%	5	Tough	4 ♥♥♥♥	4 ♥♥♥♥
+-
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+1	Powder Snow	Ice	Special	40	100%	25	Beautiful	4 ♥♥♥♥	0  
+5	Thunder Wave	Electric	Status	—	100%	20	Cool	1 ♥	3 ♥♥♥
+10	Rock Throw	Rock	Physical	50	90%	15	Tough	4 ♥♥♥♥	0  
+13	Icy Wind	Ice	Special	55	95%	15	Beautiful	4 ♥♥♥♥	0  
+15	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+18	Mist	Ice	Status	—	—%	30	Beautiful	1 ♥	0  
+20	Aurora Beam	Ice	Special	65	100%	20	Beautiful	2 ♥♥	3 ♥♥♥
+26	Ancient Power	Rock	Special	60	100%	5	Tough	1 ♥	0  
+30	Round	Normal	Special	60	100%	15	Beautiful	2 ♥♥	0  
+34	Avalanche	Ice	Physical	60	100%	10	Beautiful	3 ♥♥♥	0  
+38	Hail	Ice	Status	—	—%	10	Beautiful	2 ♥♥	1 ♥
+41	Nature Power	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+44	Encore	Normal	Status	—	100%	5	Cute	2 ♥♥	0  
+47	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+50	Ice Beam	Ice	Special	90	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+57	Hyper Beam	Normal	Special	150	90%	5	Cool	4 ♥♥♥♥	4 ♥♥♥♥
+65	Blizzard	Ice	Special	110	70%	5	Beautiful	1 ♥	3 ♥♥♥
+-
+1	Freeze-Dry	Ice	Special	70	100%	20	Beautiful	3 ♥♥♥	0  
+1	Growl	Normal	Status	—	100%	40	Cute	2 ♥♥	0  
+1	Powder Snow	Ice	Special	40	100%	25	Beautiful	4 ♥♥♥♥	0  
+5	Thunder Wave	Electric	Status	—	100%	20	Cool	1 ♥	3 ♥♥♥
+10	Rock Throw	Rock	Physical	50	90%	15	Tough	4 ♥♥♥♥	0  
+13	Icy Wind	Ice	Special	55	95%	15	Beautiful	4 ♥♥♥♥	0  
+15	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+18	Mist	Ice	Status	—	—%	30	Beautiful	1 ♥	0  
+20	Aurora Beam	Ice	Special	65	100%	20	Beautiful	2 ♥♥	3 ♥♥♥
+26	Ancient Power	Rock	Special	60	100%	5	Tough	1 ♥	0  
+30	Round	Normal	Special	60	100%	15	Beautiful	2 ♥♥	0  
+34	Avalanche	Ice	Physical	60	100%	10	Beautiful	3 ♥♥♥	0  
+38	Hail	Ice	Status	—	—%	10	Beautiful	2 ♥♥	1 ♥
+43	Nature Power	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+46	Encore	Normal	Status	—	100%	5	Cute	2 ♥♥	0  
+50	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+56	Ice Beam	Ice	Special	90	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+63	Hyper Beam	Normal	Special	150	90%	5	Cool	4 ♥♥♥♥	4 ♥♥♥♥
+74	Blizzard	Ice	Special	110	70%	5	Beautiful	1 ♥	3 ♥♥♥
+77	Freeze-Dry	Ice	Special	70	100%	20	Beautiful	3 ♥♥♥	0  
+-
+1	Disarming Voice	Fairy	Special	40	—%	15	Cute	2 ♥♥	0  
+1	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Helping Hand	Normal	Status	—	—%	20	Clever	4 ♥♥♥♥	0  
+5	Sand Attack	Ground	Status	—	100%	15	Cute	3 ♥♥♥	0  
+9	Fairy Wind	Fairy	Special	40	100%	30	Beautiful	4 ♥♥♥♥	0  
+13	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+17	Swift	Normal	Special	60	—%	20	Cool	2 ♥♥	0  
+20	Draining Kiss	Fairy	Special	50	100%	10	Cute	1 ♥	0  
+25	Skill Swap	Psychic	Status	—	—%	10	Clever	1 ♥	0  
+29	Misty Terrain	Fairy	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+33	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+37	Moonblast	Fairy	Special	95	100%	15	Beautiful	1 ♥	4 ♥♥♥♥
+41	Last Resort	Normal	Physical	140	100%	5	Cute	1 ♥	0  
+45	Psych Up	Normal	Status	—	—%	10	Clever	2 ♥♥	0  
+-
+1	Detect	Fighting	Status	—	—%	5	Cool	1 ♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Hone Claws	Dark	Status	—	—%	15	Cute	1 ♥	0  
+4	Karate Chop	Fighting	Physical	50	100%	25	Tough	4 ♥♥♥♥	0  
+8	Wing Attack	Flying	Physical	60	100%	35	Cool	4 ♥♥♥♥	0  
+12	Roost	Flying	Status	—	—%	10	Clever	4 ♥♥♥♥	0  
+16	Aerial Ace	Flying	Physical	60	—%	20	Cool	2 ♥♥	0  
+20	Encore	Normal	Status	—	100%	5	Cute	2 ♥♥	0  
+24	Fling	Dark	Physical	—	100%	10	Cute	3 ♥♥♥	0  
+28	Flying Press	Fighting	Physical	80	95%	10	Tough	2 ♥♥	0  
+32	Bounce	Flying	Physical	85	85%	5	Cute	1 ♥	0  
+36	Endeavor	Normal	Physical	—	100%	5	Tough	2 ♥♥	0  
+40	Feather Dance	Flying	Status	—	100%	15	Beautiful	2 ♥♥	0  
+44	High Jump Kick	Fighting	Physical	130	90%	10	Cool	6 ♥♥♥♥♥♥	0  
+48	Sky Attack	Flying	Physical	140	90%	5	Cool	3 ♥♥♥	0  
+55	Sky Drop	Flying	Physical	60	100%	10	Tough	3 ♥♥♥	0  
+60	Swords Dance	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Tail Whip	Normal	Status	—	100%	30	Cute	2 ♥♥	0  
+7	Thunder Shock	Electric	Special	40	100%	30	Cool	4 ♥♥♥♥	0  
+11	Charge	Electric	Status	—	—%	20	Clever	1 ♥	0  
+14	Charm	Fairy	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+17	Parabolic Charge	Electric	Special	50	100%	20	Clever	1 ♥	0  
+20	Nuzzle	Electric	Physical	20	100%	20	Cute	2 ♥♥	1 ♥
+23	Thunder Wave	Electric	Status	—	100%	20	Cool	1 ♥	3 ♥♥♥
+26	Volt Switch	Electric	Special	70	100%	20	Cool	4 ♥♥♥♥	0  
+30	Rest	Psychic	Status	—	—%	10	Cute	1 ♥	0  
+31	Snore	Normal	Special	50	100%	15	Cute	4 ♥♥♥♥	0  
+34	Charge Beam	Electric	Special	50	90%	10	Beautiful	1 ♥	0  
+39	Entrainment	Normal	Status	—	100%	15	Cute	2 ♥♥	1 ♥
+42	Play Rough	Fairy	Physical	90	90%	10	Cute	3 ♥♥♥	0  
+45	Thunder	Electric	Special	110	70%	10	Cool	1 ♥	0  
+50	Discharge	Electric	Special	80	100%	15	Beautiful	2 ♥♥	2 ♥♥
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Harden	Normal	Status	—	—%	30	Tough	2 ♥♥	0  
+5	Rock Throw	Rock	Physical	50	90%	15	Tough	4 ♥♥♥♥	0  
+8	Sharpen	Normal	Status	—	—%	30	Cute	1 ♥	0  
+12	Smack Down	Rock	Physical	50	100%	15	Tough	2 ♥♥	1 ♥
+18	Reflect	Psychic	Status	—	—%	20	Clever	2 ♥♥	0  
+21	Stealth Rock	Rock	Status	—	—%	20	Cool	2 ♥♥	0  
+27	Guard Split	Psychic	Status	—	—%	10	Clever	1 ♥	0  
+31	Ancient Power	Rock	Special	60	100%	5	Tough	1 ♥	0  
+35	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+40	Skill Swap	Psychic	Status	—	—%	10	Clever	1 ♥	0  
+46	Power Gem	Rock	Special	80	100%	20	Beautiful	4 ♥♥♥♥	0  
+49	Stone Edge	Rock	Physical	100	80%	5	Tough	3 ♥♥♥	0  
+50	Moonblast	Fairy	Special	95	100%	15	Beautiful	1 ♥	4 ♥♥♥♥
+60	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+70	Safeguard	Normal	Status	—	—%	25	Beautiful	2 ♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Bubble	Water	Special	40	100%	30	Cute	4 ♥♥♥♥	0  
+5	Absorb	Grass	Special	20	100%	25	Clever	2 ♥♥	0  
+9	Protect	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+13	Bide	Normal	Physical	—	—%	10	Tough	3 ♥♥♥	0  
+18	Dragon Breath	Dragon	Special	60	100%	20	Cool	2 ♥♥	3 ♥♥♥
+25	Rain Dance	Water	Status	—	—%	5	Beautiful	1 ♥	0  
+28	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+32	Body Slam	Normal	Physical	85	100%	15	Tough	1 ♥	4 ♥♥♥♥
+38	Muddy Water	Water	Special	90	85%	10	Tough	2 ♥♥	2 ♥♥
+42	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Bubble	Water	Special	40	100%	30	Cute	4 ♥♥♥♥	0  
+5	Absorb	Grass	Special	20	100%	25	Clever	2 ♥♥	0  
+9	Protect	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+13	Bide	Normal	Physical	—	—%	10	Tough	3 ♥♥♥	0  
+18	Dragon Breath	Dragon	Special	60	100%	20	Cool	2 ♥♥	3 ♥♥♥
+25	Rain Dance	Water	Status	—	—%	5	Beautiful	1 ♥	0  
+28	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+32	Body Slam	Normal	Physical	85	100%	15	Tough	1 ♥	4 ♥♥♥♥
+38	Muddy Water	Water	Special	90	85%	10	Tough	2 ♥♥	2 ♥♥
+47	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+-
+1	Outrage	Dragon	Physical	120	100%	10	Cool	6 ♥♥♥♥♥♥	0  
+1	Feint	Normal	Physical	30	100%	10	Clever	3 ♥♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Bubble	Water	Special	40	100%	30	Cute	4 ♥♥♥♥	0  
+5	Absorb	Grass	Special	20	100%	25	Clever	2 ♥♥	0  
+9	Protect	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+13	Bide	Normal	Physical	—	—%	10	Tough	3 ♥♥♥	0  
+18	Dragon Breath	Dragon	Special	60	100%	20	Cool	2 ♥♥	3 ♥♥♥
+25	Rain Dance	Water	Status	—	—%	5	Beautiful	1 ♥	0  
+28	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+32	Body Slam	Normal	Physical	85	100%	15	Tough	1 ♥	4 ♥♥♥♥
+38	Muddy Water	Water	Special	90	85%	10	Tough	2 ♥♥	2 ♥♥
+47	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+50	Aqua Tail	Water	Physical	90	90%	10	Beautiful	4 ♥♥♥♥	0  
+55	Power Whip	Grass	Physical	120	85%	10	Tough	1 ♥	0  
+63	Outrage	Dragon	Physical	120	100%	10	Cool	6 ♥♥♥♥♥♥	0  
+-
+1	Fairy Lock	Fairy	Status	—	—%	10	Clever	3 ♥♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+5	Fairy Wind	Fairy	Special	40	100%	30	Beautiful	4 ♥♥♥♥	0  
+8	Astonish	Ghost	Physical	30	100%	15	Cute	2 ♥♥	3 ♥♥♥
+12	Metal Sound	Steel	Status	—	85%	40	Clever	1 ♥	3 ♥♥♥
+15	Spikes	Ground	Status	—	—%	20	Clever	2 ♥♥	0  
+18	Draining Kiss	Fairy	Special	50	100%	10	Cute	1 ♥	0  
+23	Crafty Shield	Fairy	Status	—	—%	10	Clever	3 ♥♥♥	0  
+27	Foul Play	Dark	Physical	95	100%	15	Clever	1 ♥	0  
+32	Torment	Dark	Status	—	100%	15	Tough	2 ♥♥	0  
+34	Mirror Shot	Steel	Special	65	85%	10	Beautiful	2 ♥♥	3 ♥♥♥
+36	Imprison	Psychic	Status	—	—%	10	Clever	3 ♥♥♥	0  
+40	Recycle	Normal	Status	—	—%	10	Clever	1 ♥	0  
+43	Play Rough	Fairy	Physical	90	90%	10	Cute	3 ♥♥♥	0  
+44	Magic Room	Psychic	Status	—	—%	10	Clever	3 ♥♥♥	0  
+50	Heal Block	Psychic	Status	—	100%	15	Clever	3 ♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Confuse Ray	Ghost	Status	—	100%	10	Clever	2 ♥♥	1 ♥
+5	Astonish	Ghost	Physical	30	100%	15	Cute	2 ♥♥	3 ♥♥♥
+8	Growth	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+13	Ingrain	Grass	Status	—	—%	20	Clever	1 ♥	0  
+19	Feint Attack	Dark	Physical	60	—%	20	Clever	2 ♥♥	0  
+23	Leech Seed	Grass	Status	—	90%	10	Clever	1 ♥	0  
+28	Curse	Ghost	Status	—	—%	10	Tough	3 ♥♥♥	0  
+31	Will-O-Wisp	Fire	Status	—	85%	15	Beautiful	3 ♥♥♥	0  
+35	Forest's Curse	Grass	Status	—	100%	20	Clever	2 ♥♥	1 ♥
+39	Destiny Bond	Ghost	Status	—	—%	5	Clever	8 ♥♥♥♥♥♥♥♥	0  
+45	Phantom Force	Ghost	Physical	90	100%	10	Cool	1 ♥	0  
+49	Wood Hammer	Grass	Physical	120	100%	15	Tough	6 ♥♥♥♥♥♥	0  
+54	Horn Leech	Grass	Physical	75	100%	10	Tough	1 ♥	0  
+-
+1	Horn Leech	Grass	Physical	75	100%	10	Tough	1 ♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Confuse Ray	Ghost	Status	—	100%	10	Clever	2 ♥♥	1 ♥
+5	Astonish	Ghost	Physical	30	100%	15	Cute	2 ♥♥	3 ♥♥♥
+8	Growth	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+13	Ingrain	Grass	Status	—	—%	20	Clever	1 ♥	0  
+19	Feint Attack	Dark	Physical	60	—%	20	Clever	2 ♥♥	0  
+23	Leech Seed	Grass	Status	—	90%	10	Clever	1 ♥	0  
+28	Curse	Ghost	Status	—	—%	10	Tough	3 ♥♥♥	0  
+31	Will-O-Wisp	Fire	Status	—	85%	15	Beautiful	3 ♥♥♥	0  
+35	Forest's Curse	Grass	Status	—	100%	20	Clever	2 ♥♥	1 ♥
+39	Destiny Bond	Ghost	Status	—	—%	5	Clever	8 ♥♥♥♥♥♥♥♥	0  
+45	Phantom Force	Ghost	Physical	90	100%	10	Cool	1 ♥	0  
+49	Wood Hammer	Grass	Physical	120	100%	15	Tough	6 ♥♥♥♥♥♥	0  
+55	Shadow Claw	Ghost	Physical	70	100%	15	Cool	4 ♥♥♥♥	0  
+62	Horn Leech	Grass	Physical	75	100%	10	Tough	1 ♥	0  
+-
+1	Trick	Psychic	Status	—	100%	10	Clever	2 ♥♥	1 ♥
+1	Astonish	Ghost	Physical	30	100%	15	Cute	2 ♥♥	3 ♥♥♥
+1	Confuse Ray	Ghost	Status	—	100%	10	Clever	2 ♥♥	1 ♥
+4	Scary Face	Normal	Status	—	100%	10	Tough	3 ♥♥♥	0  
+6	Trick-or-Treat	Ghost	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+11	Worry Seed	Grass	Status	—	100%	10	Clever	2 ♥♥	0  
+16	Razor Leaf	Grass	Physical	55	95%	25	Cool	4 ♥♥♥♥	0  
+20	Leech Seed	Grass	Status	—	90%	10	Clever	1 ♥	0  
+23	Trick-or-Treat	Ghost	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+26	Bullet Seed	Grass	Physical	25	100%	30	Cool	1 ♥	0  
+30	Shadow Sneak	Ghost	Physical	40	100%	30	Clever	3 ♥♥♥	0  
+36	Shadow Ball	Ghost	Special	80	100%	15	Clever	4 ♥♥♥♥	0  
+40	Trick-or-Treat	Ghost	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+42	Pain Split	Normal	Status	—	—%	20	Clever	1 ♥	0  
+48	Seed Bomb	Grass	Physical	80	100%	15	Tough	4 ♥♥♥♥	0  
+-
+1	Explosion	Normal	Physical	250	100%	5	Beautiful	8 ♥♥♥♥♥♥♥♥	0  
+1	Phantom Force	Ghost	Physical	90	100%	10	Cool	1 ♥	0  
+1	Trick	Psychic	Status	—	100%	10	Clever	2 ♥♥	1 ♥
+1	Astonish	Ghost	Physical	30	100%	15	Cute	2 ♥♥	3 ♥♥♥
+1	Confuse Ray	Ghost	Status	—	100%	10	Clever	2 ♥♥	1 ♥
+4	Scary Face	Normal	Status	—	100%	10	Tough	3 ♥♥♥	0  
+6	Trick-or-Treat	Ghost	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+11	Worry Seed	Grass	Status	—	100%	10	Clever	2 ♥♥	0  
+16	Razor Leaf	Grass	Physical	55	95%	25	Cool	4 ♥♥♥♥	0  
+20	Leech Seed	Grass	Status	—	90%	10	Clever	1 ♥	0  
+23	Trick-or-Treat	Ghost	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+26	Bullet Seed	Grass	Physical	25	100%	30	Cool	1 ♥	0  
+30	Shadow Sneak	Ghost	Physical	40	100%	30	Clever	3 ♥♥♥	0  
+36	Shadow Ball	Ghost	Special	80	100%	15	Clever	4 ♥♥♥♥	0  
+40	Trick-or-Treat	Ghost	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+42	Pain Split	Normal	Status	—	—%	20	Clever	1 ♥	0  
+48	Seed Bomb	Grass	Physical	80	100%	15	Tough	4 ♥♥♥♥	0  
+57	Phantom Force	Ghost	Physical	90	100%	10	Cool	1 ♥	0  
+63	Trick-or-Treat	Ghost	Status	—	100%	20	Cute	2 ♥♥	1 ♥
+70	Shadow Ball	Ghost	Special	80	100%	15	Clever	4 ♥♥♥♥	0  
+75	Explosion	Normal	Physical	250	100%	5	Beautiful	8 ♥♥♥♥♥♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+1	Harden	Normal	Status	—	—%	30	Tough	2 ♥♥	0  
+5	Powder Snow	Ice	Special	40	100%	25	Beautiful	4 ♥♥♥♥	0  
+10	Icy Wind	Ice	Special	55	95%	15	Beautiful	4 ♥♥♥♥	0  
+15	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+20	Sharpen	Normal	Status	—	—%	30	Cute	1 ♥	0  
+22	Curse	Ghost	Status	—	—%	10	Tough	3 ♥♥♥	0  
+26	Ice Fang	Ice	Physical	65	95%	15	Cool	4 ♥♥♥♥	0  
+30	Ice Ball	Ice	Physical	30	90%	20	Beautiful	3 ♥♥♥	0  
+35	Rapid Spin	Normal	Physical	20	100%	40	Cool	1 ♥	0  
+39	Avalanche	Ice	Physical	60	100%	10	Beautiful	3 ♥♥♥	0  
+43	Blizzard	Ice	Special	110	70%	5	Beautiful	1 ♥	3 ♥♥♥
+47	Recover	Normal	Status	—	—%	10	Clever	2 ♥♥	0  
+49	Double-Edge	Normal	Physical	120	100%	15	Tough	6 ♥♥♥♥♥♥	0  
+-
+1	Iron Defense	Steel	Status	—	—%	15	Tough	1 ♥	0  
+1	Skull Bash	Normal	Physical	130	100%	10	Tough	3 ♥♥♥	0  
+1	Crunch	Dark	Physical	80	100%	15	Tough	1 ♥	4 ♥♥♥♥
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+1	Harden	Normal	Status	—	—%	30	Tough	2 ♥♥	0  
+5	Powder Snow	Ice	Special	40	100%	25	Beautiful	4 ♥♥♥♥	0  
+10	Icy Wind	Ice	Special	55	95%	15	Beautiful	4 ♥♥♥♥	0  
+15	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+20	Sharpen	Normal	Status	—	—%	30	Cute	1 ♥	0  
+22	Curse	Ghost	Status	—	—%	10	Tough	3 ♥♥♥	0  
+26	Ice Fang	Ice	Physical	65	95%	15	Cool	4 ♥♥♥♥	0  
+30	Ice Ball	Ice	Physical	30	90%	20	Beautiful	3 ♥♥♥	0  
+35	Rapid Spin	Normal	Physical	20	100%	40	Cool	1 ♥	0  
+42	Avalanche	Ice	Physical	60	100%	10	Beautiful	3 ♥♥♥	0  
+46	Blizzard	Ice	Special	110	70%	5	Beautiful	1 ♥	3 ♥♥♥
+51	Recover	Normal	Status	—	—%	10	Clever	2 ♥♥	0  
+56	Double-Edge	Normal	Physical	120	100%	15	Tough	6 ♥♥♥♥♥♥	0  
+60	Skull Bash	Normal	Physical	130	100%	10	Tough	3 ♥♥♥	0  
+65	Crunch	Dark	Physical	80	100%	15	Tough	1 ♥	4 ♥♥♥♥
+-
+1	Screech	Normal	Status	—	85%	40	Clever	3 ♥♥♥	0  
+1	Supersonic	Normal	Status	—	55%	20	Clever	3 ♥♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+5	Leech Life	Bug	Physical	20	100%	15	Clever	1 ♥	0  
+11	Gust	Flying	Special	40	100%	35	Clever	2 ♥♥	3 ♥♥♥
+13	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+16	Wing Attack	Flying	Physical	60	100%	35	Cool	4 ♥♥♥♥	0  
+18	Agility	Psychic	Status	—	—%	30	Cool	3 ♥♥♥	0  
+23	Air Cutter	Flying	Special	60	95%	25	Cool	4 ♥♥♥♥	0  
+27	Roost	Flying	Status	—	—%	10	Clever	4 ♥♥♥♥	0  
+31	Razor Wind	Normal	Special	80	100%	10	Cool	3 ♥♥♥	0  
+35	Tailwind	Flying	Status	—	—%	15	Cool	3 ♥♥♥	0  
+40	Whirlwind	Normal	Status	—	—%	20	Clever	3 ♥♥♥	0  
+43	Super Fang	Normal	Physical	—	90%	10	Tough	2 ♥♥	1 ♥
+48	Air Slash	Flying	Special	75	95%	15	Cool	1 ♥	4 ♥♥♥♥
+58	Hurricane	Flying	Special	110	70%	10	Tough	2 ♥♥	1 ♥
+-
+1	Moonlight	Fairy	Status	—	—%	5	Beautiful	1 ♥	0  
+1	Boomburst	Normal	Special	140	100%	10	Tough	4 ♥♥♥♥	4 ♥♥♥♥
+1	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+1	Hurricane	Flying	Special	110	70%	10	Tough	2 ♥♥	1 ♥
+1	Screech	Normal	Status	—	85%	40	Clever	3 ♥♥♥	0  
+1	Supersonic	Normal	Status	—	55%	20	Clever	3 ♥♥♥	0  
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+5	Leech Life	Bug	Physical	20	100%	15	Clever	1 ♥	0  
+11	Gust	Flying	Special	40	100%	35	Clever	2 ♥♥	3 ♥♥♥
+13	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+16	Wing Attack	Flying	Physical	60	100%	35	Cool	4 ♥♥♥♥	0  
+18	Agility	Psychic	Status	—	—%	30	Cool	3 ♥♥♥	0  
+23	Air Cutter	Flying	Special	60	95%	25	Cool	4 ♥♥♥♥	0  
+27	Roost	Flying	Status	—	—%	10	Clever	4 ♥♥♥♥	0  
+31	Razor Wind	Normal	Special	80	100%	10	Cool	3 ♥♥♥	0  
+35	Tailwind	Flying	Status	—	—%	15	Cool	3 ♥♥♥	0  
+40	Whirlwind	Normal	Status	—	—%	20	Clever	3 ♥♥♥	0  
+43	Super Fang	Normal	Physical	—	90%	10	Tough	2 ♥♥	1 ♥
+53	Air Slash	Flying	Special	75	95%	15	Cool	1 ♥	4 ♥♥♥♥
+62	Hurricane	Flying	Special	110	70%	10	Tough	2 ♥♥	1 ♥
+70	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+75	Boomburst	Normal	Special	140	100%	10	Tough	4 ♥♥♥♥	4 ♥♥♥♥
+-
+1	Heal Pulse	Psychic	Status	—	—%	10	Beautiful	2 ♥♥	0  
+1	Aromatherapy	Grass	Status	—	—%	5	Clever	1 ♥	0  
+1	Ingrain	Grass	Status	—	—%	20	Clever	1 ♥	0  
+1	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+5	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+10	Aurora Beam	Ice	Special	65	100%	20	Beautiful	2 ♥♥	3 ♥♥♥
+18	Gravity	Psychic	Status	—	—%	5	Clever	2 ♥♥	0  
+26	Geomancy	Fairy	Status	—	—%	10	Beautiful	1 ♥	0  
+35	Moonblast	Fairy	Special	95	100%	15	Beautiful	1 ♥	4 ♥♥♥♥
+44	Megahorn	Bug	Physical	120	85%	10	Cool	3 ♥♥♥	0  
+51	Night Slash	Dark	Physical	70	100%	15	Cool	3 ♥♥♥	0  
+55	Horn Leech	Grass	Physical	75	100%	10	Tough	1 ♥	0  
+59	Psych Up	Normal	Status	—	—%	10	Clever	2 ♥♥	0  
+63	Misty Terrain	Fairy	Status	—	—%	10	Beautiful	3 ♥♥♥	0  
+72	Nature Power	Normal	Status	—	—%	20	Beautiful	1 ♥	0  
+80	Close Combat	Fighting	Physical	120	100%	5	Tough	6 ♥♥♥♥♥♥	0  
+88	Giga Impact	Normal	Physical	150	90%	5	Tough	4 ♥♥♥♥	4 ♥♥♥♥
+93	Outrage	Dragon	Physical	120	100%	10	Cool	6 ♥♥♥♥♥♥	0  
+-
+1	Hurricane	Flying	Special	110	70%	10	Tough	2 ♥♥	1 ♥
+1	Razor Wind	Normal	Special	80	100%	10	Cool	3 ♥♥♥	0  
+1	Taunt	Dark	Status	—	100%	20	Clever	2 ♥♥	1 ♥
+1	Roost	Flying	Status	—	—%	10	Clever	4 ♥♥♥♥	0  
+5	Double Team	Normal	Status	—	—%	15	Cool	1 ♥	0  
+10	Air Slash	Flying	Special	75	95%	15	Cool	1 ♥	4 ♥♥♥♥
+18	Snarl	Dark	Special	55	95%	15	Tough	4 ♥♥♥♥	0  
+26	Oblivion Wing	Flying	Special	80	100%	10	Cool	1 ♥	0  
+35	Disable	Normal	Status	—	100%	20	Clever	2 ♥♥	0  
+44	Dark Pulse	Dark	Special	80	100%	15	Cool	4 ♥♥♥♥	0  
+51	Foul Play	Dark	Physical	95	100%	15	Clever	1 ♥	0  
+55	Phantom Force	Ghost	Physical	90	100%	10	Cool	1 ♥	0  
+59	Psychic	Psychic	Special	90	100%	10	Clever	4 ♥♥♥♥	0  
+63	Dragon Rush	Dragon	Physical	100	75%	10	Tough	3 ♥♥♥	0  
+72	Focus Blast	Fighting	Special	120	70%	5	Cool	4 ♥♥♥♥	0  
+80	Sucker Punch	Dark	Physical	80	100%	5	Clever	3 ♥♥♥	0  
+88	Hyper Beam	Normal	Special	150	90%	5	Cool	4 ♥♥♥♥	4 ♥♥♥♥
+93	Sky Attack	Flying	Physical	140	90%	5	Cool	3 ♥♥♥	0  
+-
+1	Glare	Normal	Status	—	100%	30	Tough	1 ♥	3 ♥♥♥
+1	Bulldoze	Ground	Physical	60	100%	20	Tough	2 ♥♥	2 ♥♥
+1	Dragon Breath	Dragon	Special	60	100%	20	Cool	2 ♥♥	3 ♥♥♥
+1	Bite	Dark	Physical	60	100%	25	Tough	2 ♥♥	3 ♥♥♥
+5	Safeguard	Normal	Status	—	—%	25	Beautiful	2 ♥♥	0  
+10	Dig	Ground	Physical	80	100%	10	Tough	2 ♥♥	0  
+18	Bind	Normal	Physical	15	85%	20	Tough	3 ♥♥♥	0  
+26	Land's Wrath	Ground	Physical	90	100%	10	Beautiful	2 ♥♥	2 ♥♥
+35	Sandstorm	Rock	Status	—	—%	10	Tough	2 ♥♥	1 ♥
+44	Haze	Ice	Status	—	—%	30	Beautiful	3 ♥♥♥	0  
+51	Crunch	Dark	Physical	80	100%	15	Tough	1 ♥	4 ♥♥♥♥
+55	Earthquake	Ground	Physical	100	100%	10	Tough	2 ♥♥	1 ♥
+59	Camouflage	Normal	Status	—	—%	20	Clever	1 ♥	0  
+63	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+72	Dragon Dance	Dragon	Status	—	—%	20	Cool	1 ♥	0  
+80	Coil	Poison	Status	—	—%	20	Tough	1 ♥	0  
+88	Extreme Speed	Normal	Physical	80	100%	5	Cool	3 ♥♥♥	0  
+93	Outrage	Dragon	Physical	120	100%	10	Cool	6 ♥♥♥♥♥♥	0  
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+1	Harden	Normal	Status	—	—%	30	Tough	2 ♥♥	0  
+5	Rock Throw	Rock	Physical	50	90%	15	Tough	4 ♥♥♥♥	0  
+8	Sharpen	Normal	Status	—	—%	30	Cute	1 ♥	0  
+12	Smack Down	Rock	Physical	50	100%	15	Tough	2 ♥♥	1 ♥
+18	Reflect	Psychic	Status	—	—%	20	Clever	2 ♥♥	0  
+21	Stealth Rock	Rock	Status	—	—%	20	Cool	2 ♥♥	0  
+27	Guard Split	Psychic	Status	—	—%	10	Clever	1 ♥	0  
+31	Ancient Power	Rock	Special	60	100%	5	Tough	1 ♥	0  
+35	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+40	Skill Swap	Psychic	Status	—	—%	10	Clever	1 ♥	0  
+46	Trick Room	Psychic	Status	—	—%	5	Clever	3 ♥♥♥	0  
+49	Stone Edge	Rock	Physical	100	80%	5	Tough	3 ♥♥♥	0  
+50	Moonblast	Fairy	Special	95	100%	15	Beautiful	1 ♥	4 ♥♥♥♥
+50	Diamond Storm	Rock	Physical	100	95%	5	Beautiful	3 ♥♥♥	0  
+60	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+70	Safeguard	Normal	Status	—	—%	25	Beautiful	2 ♥♥	0  
+-
+1	Hyperspace Hole
+1	Trick
+1	Destiny Bond
+1	Ally Switch
+1	Confusion
+6	Astonish
+10	Magic Coat
+15	Light Screen
+19	Psybeam
+25	Skill Swap
+29	Power Split
+29	Guard Split
+35	Phantom Force
+46	Zen Headbutt
+50	Wonder Room
+50	Trick Room
+55	Shadow Ball
+68	Nasty Plot
+75	Psychic
+85	Hyperspace Hole
+-
+1	Steam Eruption	Water	Special	110	95%	5	Beautiful	3 ♥♥♥	0  
+1	Flare Blitz	Fire	Physical	120	100%	15	Cool	6 ♥♥♥♥♥♥	0  
+1	Take Down	Normal	Physical	90	85%	20	Tough	6 ♥♥♥♥♥♥	0  
+8	Mist	Ice	Status	—	—%	30	Beautiful	1 ♥	0  
+11	Haze	Ice	Status	—	—%	30	Beautiful	3 ♥♥♥	0  
+15	Flame Charge	Fire	Physical	50	100%	20	Cool	1 ♥	0  
+21	Water Pulse	Water	Special	60	100%	20	Beautiful	3 ♥♥♥	0  
+28	Stomp	Normal	Physical	65	100%	20	Tough	4 ♥♥♥♥	0  
+32	Scald	Water	Special	80	100%	15	Tough	2 ♥♥	0  
+40	Weather Ball	Normal	Special	50	100%	10	Beautiful	3 ♥♥♥	0  
+46	Body Slam	Normal	Physical	85	100%	15	Tough	1 ♥	4 ♥♥♥♥
+50	Hydro Pump	Water	Special	110	80%	5	Beautiful	1 ♥	0  
+58	Flare Blitz	Fire	Physical	120	100%	15	Cool	6 ♥♥♥♥♥♥	0  
+65	Overheat	Fire	Special	130	90%	5	Beautiful	6 ♥♥♥♥♥♥	0  
+76	Explosion	Normal	Physical	250	100%	5	Beautiful	8 ♥♥♥♥♥♥♥♥	0  
+85	Steam Eruption	Water	Special	110	95%	5	Beautiful	3 ♥♥♥	0  
+-
+1	Leer
+1	Wrap
+7	Night Shade
+13	Double Team
+19	Knock Off
+25	Pursuit
+31	Psychic
+37	Swift
+43	Psycho Shift
+49	Zen Headbutt
+55	Agility
+61	Recover
+67	Psycho Boost
+73	Extreme Speed
+-
+1	Leer
+1	Wrap
+7	Night Shade
+13	Teleport
+19	Knock Off
+25	Spikes
+31	Psychic
+37	Swift
+43	Psycho Shift
+49	Zen Headbutt
+55	Agility
+61	Recover
+67	Psycho Boost
+73	Extreme Speed
+-
+1	Leer
+1	Wrap
+7	Night Shade
+13	Double Team
+19	Knock Off
+25	Pursuit
+31	Psychic
+37	Swift
+43	Psycho Shift
+49	Zen Headbutt
+55	Agility
+61	Recover
+67	Psycho Boost
+73	Extreme Speed
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+10	Protect	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+15	Bug Bite	Bug	Physical	60	100%	20	Cute	3 ♥♥♥	0  
+20	Hidden Power	Normal	Special	60	100%	15	Clever	3 ♥♥♥	0  
+23	Confusion	Psychic	Special	50	100%	25	Clever	4 ♥♥♥♥	0  
+26	Rock Blast	Rock	Physical	25	90%	10	Tough	1 ♥	0  
+29	Harden	Normal	Status	—	—%	30	Tough	2 ♥♥	0  
+32	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+35	Captivate	Normal	Status	—	100%	20	Cute	4 ♥♥♥♥	0  
+38	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+41	Attract	Normal	Status	—	100%	15	Cute	2 ♥♥	0  
+44	Psychic	Psychic	Special	90	100%	10	Clever	4 ♥♥♥♥	0  
+47	Fissure	Ground	Physical	—	—%	5	Tough	2 ♥♥	1 ♥
+-
+1	Tackle	Normal	Physical	50	100%	35	Tough	4 ♥♥♥♥	0  
+10	Protect	Normal	Status	—	—%	10	Cute	2 ♥♥	0  
+15	Bug Bite	Bug	Physical	60	100%	20	Cute	3 ♥♥♥	0  
+20	Hidden Power	Normal	Special	60	100%	15	Clever	3 ♥♥♥	0  
+23	Confusion	Psychic	Special	50	100%	25	Clever	4 ♥♥♥♥	0  
+26	Mirror Shot	Steel	Special	65	85%	10	Beautiful	2 ♥♥	3 ♥♥♥
+29	Metal Sound	Steel	Status	—	85%	40	Clever	1 ♥	3 ♥♥♥
+32	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+35	Captivate	Normal	Status	—	100%	20	Cute	4 ♥♥♥♥	0  
+38	Flail	Normal	Physical	—	100%	15	Cute	1 ♥	0  
+41	Attract	Normal	Status	—	100%	15	Cute	2 ♥♥	0  
+44	Psychic	Psychic	Special	90	100%	10	Clever	4 ♥♥♥♥	0  
+47	Iron Head	Steel	Physical	80	100%	15	Tough	4 ♥♥♥♥	0  
+-
+1	Growth	Normal	Status	—	—%	40	Beautiful	1 ♥	0  
+10	Magical Leaf	Grass	Special	60	—%	20	Beautiful	2 ♥♥	0  
+19	Leech Seed	Grass	Status	—	90%	10	Clever	1 ♥	0  
+28	Quick Attack	Normal	Physical	40	100%	30	Cool	3 ♥♥♥	0  
+37	Sweet Scent	Normal	Status	—	100%	20	Cute	2 ♥♥	0  
+46	Natural Gift	Normal	Physical	—	100%	15	Clever	1 ♥	0  
+55	Worry Seed	Grass	Status	—	100%	10	Clever	2 ♥♥	0  
+64	Air Slash	Flying	Special	75	95%	15	Cool	1 ♥	4 ♥♥♥♥
+73	Energy Ball	Grass	Special	90	100%	10	Beautiful	4 ♥♥♥♥	0  
+82	Sweet Kiss	Fairy	Status	—	75%	10	Cute	2 ♥♥	0  
+91	Leaf Storm	Grass	Special	130	90%	5	Beautiful	6 ♥♥♥♥♥♥	0  
+100	Seed Flare	Grass	Special	120	85%	5	Beautiful	6 ♥♥♥♥♥♥	0  
+-
+1	Icy Wind	Ice	Special	55	95%	15	Beautiful	4 ♥♥♥♥	0  
+1	Dragon Rage	Dragon	Special	—	100%	10	Cool	3 ♥♥♥	0  
+8	Imprison	Psychic	Status	—	—%	10	Clever	3 ♥♥♥	0  
+15	Ancient Power	Rock	Special	60	100%	5	Tough	1 ♥	0  
+22	Ice Beam	Ice	Special	90	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+29	Dragon Breath	Dragon	Special	60	100%	20	Cool	2 ♥♥	3 ♥♥♥
+36	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+43	Fusion Flare	Fire	Special	100	100%	5	Beautiful	1 ♥	0  
+50	Ice Burn	Ice	Special	140	90%	5	Beautiful	3 ♥♥♥	0  
+57	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+64	Imprison	Psychic	Status	—	—%	10	Clever	3 ♥♥♥	0  
+71	Endeavor	Normal	Physical	—	100%	5	Tough	2 ♥♥	0  
+78	Blizzard	Ice	Special	110	70%	5	Beautiful	1 ♥	3 ♥♥♥
+85	Outrage	Dragon	Physical	120	100%	10	Cool	6 ♥♥♥♥♥♥	0  
+92	Hyper Voice	Normal	Special	90	100%	10	Cool	2 ♥♥	2 ♥♥
+-
+1	Icy Wind	Ice	Special	55	95%	15	Beautiful	4 ♥♥♥♥	0  
+1	Dragon Rage	Dragon	Special	—	100%	10	Cool	3 ♥♥♥	0  
+8	Imprison	Psychic	Status	—	—%	10	Clever	3 ♥♥♥	0  
+15	Ancient Power	Rock	Special	60	100%	5	Tough	1 ♥	0  
+22	Ice Beam	Ice	Special	90	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+29	Dragon Breath	Dragon	Special	60	100%	20	Cool	2 ♥♥	3 ♥♥♥
+36	Slash	Normal	Physical	70	100%	20	Cool	4 ♥♥♥♥	0  
+43	Fusion Bolt	Electric	Physical	100	100%	5	Cool	1 ♥	0  
+50	Freeze Shock	Ice	Physical	140	90%	5	Beautiful	3 ♥♥♥	0  
+57	Dragon Pulse	Dragon	Special	85	100%	10	Beautiful	4 ♥♥♥♥	0  
+64	Imprison	Psychic	Status	—	—%	10	Clever	3 ♥♥♥	0  
+71	Endeavor	Normal	Physical	—	100%	5	Tough	2 ♥♥	0  
+78	Blizzard	Ice	Special	110	70%	5	Beautiful	1 ♥	3 ♥♥♥
+85	Outrage	Dragon	Physical	120	100%	10	Cool	6 ♥♥♥♥♥♥	0  
+92	Hyper Voice	Normal	Special	90	100%	10	Cool	2 ♥♥	2 ♥♥
+-
+1	Stored Power	Psychic	Special	20	100%	10	Clever	1 ♥	0  
+1	Me First	Normal	Status	—	—%	20	Clever	3 ♥♥♥	0  
+1	Magical Leaf	Grass	Special	60	—%	20	Beautiful	2 ♥♥	0  
+1	Scratch	Normal	Physical	40	100%	35	Tough	4 ♥♥♥♥	0  
+1	Leer	Normal	Status	—	100%	30	Cool	2 ♥♥	1 ♥
+5	Covet	Normal	Physical	60	100%	25	Cute	1 ♥	0  
+9	Confusion	Psychic	Special	50	100%	25	Clever	4 ♥♥♥♥	0  
+13	Light Screen	Psychic	Status	—	—%	30	Beautiful	2 ♥♥	0  
+17	Psybeam	Psychic	Special	65	100%	20	Beautiful	3 ♥♥♥	0  
+19	Fake Out	Normal	Physical	40	100%	10	Cute	2 ♥♥	3 ♥♥♥
+22	Disarming Voice	Fairy	Special	40	—%	15	Cute	2 ♥♥	0  
+25	Psyshock	Psychic	Special	80	100%	10	Beautiful	1 ♥	4 ♥♥♥♥
+28	Charge Beam	Electric	Special	50	90%	10	Beautiful	1 ♥	0  
+31	Shadow Ball	Ghost	Special	80	100%	15	Clever	4 ♥♥♥♥	0  
+35	Extrasensory	Psychic	Special	80	100%	20	Cool	2 ♥♥	1 ♥
+40	Psychic	Psychic	Special	90	100%	10	Clever	4 ♥♥♥♥	0  
+43	Role Play	Psychic	Status	—	—%	10	Cute	1 ♥	0  
+45	Signal Beam	Bug	Special	75	100%	15	Beautiful	3 ♥♥♥	0  
+48	Sucker Punch	Dark	Physical	80	100%	5	Clever	3 ♥♥♥	0  
+50	Future Sight	Psychic	Special	120	100%	10	Clever	2 ♥♥	0  
+53	Stored Power	Psychic	Special	20	100%	10	Clever	1 ♥	0  
+-
+1	Hyperspace Fury
+1	Trick
+1	Destiny Bond
+1	Ally Switch
+1	Confusion
+6	Astonish
+10	Magic Coat
+15	Light Screen
+19	Psybeam
+25	Skill Swap
+29	Power Split
+29	Guard Split
+46	Knock Off
+50	Wonder Room
+50	Trick Room
+55	Dark Pulse
+75	Psychic
+85	Hyperspace Fury
+-
