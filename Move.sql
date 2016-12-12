@@ -756,3 +756,67 @@ UPDATE MOVE_Data SET Priority=-6 WHERE
 
 UPDATE MOVE_Data SET Priority=-7 WHERE
 	Move_Name = 'Trick Room';
+
+CREATE TABLE Z_MOVE_Data
+(
+	Move_ID int PRIMARY KEY AUTO_INCREMENT,
+	Move_Name varchar(40) NOT NULL, --Z Move names are significantly longer than usual.
+	Move_Type int NOT NULL,
+	isPhysical boolean,
+	Power int
+);
+
+INSERT INTO Z_MOVE_Data
+	(Move_Name, Move_Type, isPhysical)
+VALUES --The generic Z-Moves.
+	('Breakneck Blitz', 0, true),
+	('Breakneck Blitz', 0, false),
+	('All-Out Pummeling', 1, true),
+	('All-Out Pummeling', 1, false),
+	('Supersonic Skystrike', 2, true),
+	('Supersonic Skystrike', 2, false),
+	('Acid Downpour', 3, true),
+	('Acid Downpour', 3, false),
+	('Tectonic Rage', 4, true),
+	('Tectonic Rage', 4, false),
+	('Continental Crash', 5, true),
+	('Continental Crash', 5, false),
+	('Savage Spin-Out', 6, true),
+	('Savage Spin-Out', 6, false),
+	('Never-Ending Nightmare', 7, true),
+	('Never-Ending Nightmare', 7, false),
+	('Corkscrew Crash', 8, true),
+	('Corkscrew Crash', 8, false),
+	('Inferno Overdrive', 9, true),
+	('Inferno Overdrive', 9, false),
+	('Hydro Vortex', 10, true),
+	('Hydro Vortex', 10, false),
+	('Bloom Doom', 11, true),
+	('Bloom Doom', 11, false),
+	('Gigavolt Havoc', 12, true),
+	('Gigavolt Havoc', 12, false),
+	('Shattered Psyche', 13, true),
+	('Shattered Psyche', 13, false),
+	('Subzero Slammer', 14, true),
+	('Subzero Slammer', 14, false),
+	('Devastating Drake', 15, true),
+	('Devastating Drake', 15, false),
+	('Black Hole Eclipse', 16, true),
+	('Black Hole Eclipse', 16, false),
+	('Twinkle Tackle', 17, true),
+	('Twinkle Tackle', 17, false);
+	
+INSERT INTO Z_MOVE_Data
+	(Move_Name, Move_Type, isPhysical, Power)
+VALUES --The special Z moves.
+	('Catastropika', 12, true, 210),
+	('Sinister Arrow Raid', 7, true, 180),
+	('Malicious Moonsault', 16, true, 180),
+	('Oceanic Operetta', 10, false, 180),
+	('Guardian of Alola', 17, false, null),
+	('Soul-Stealing 7-Star Strike', 7, true, 195),
+	('Stoked Sparksurfer', 12, false, 175),
+	('Pulverizing Pancake', 0, true, 210),
+	('Extreme Evoboost', 0, null, null),
+	('Genesis Supernova', 13, false, 185),
+	('10,000,000 Volt Thunderbolt', 12, false, 195);
