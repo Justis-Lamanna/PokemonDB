@@ -54,7 +54,11 @@ VALUES
 	('Evolution Stone, Male', 4),
 	('Trade', null),
 	('Trade with item', 4),
-	('Trade for a Pokémon', 5);
+	('Trade for a Pokémon', 5),
+	('Level during day in Sun', 1),
+	('Level during night in Moon', 1),
+	('Level in Sun', 1),
+	('Level in Moon', 1);
 
 CREATE TABLE PKMN_Evolutions
 (
