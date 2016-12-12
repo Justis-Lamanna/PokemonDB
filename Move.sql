@@ -633,10 +633,61 @@ VALUES
 	('Origin Pulse', 10, false, 10, 110, 85),
 	('Precipice Blades', 4, true, 10, 120, 85),
 	('Dragon Ascent', 2, true, 5, 120, 100),
-	('Hyperspace Fury', 16, true, 5, 100, null);
+	('Hyperspace Fury', 16, true, 5, 100, null),
+	('Shore Up', 4, null, 10, 0, null),
+	('First Impression', 6, true, 10, 90, 100),
+	('Baneful Bunker', 3, null, 10, 0, null),
+	('Spirit Shackle', 7, true, 10, 80, 100),
+	('Darkest Lariat', 16, true, 10, 85, 100),
+	('Sparkling Aria', 10, false, 10, 90, 100),
+	('Ice Hammer', 14, true, 10, 100, 90),
+	('Floral Healing', 17, null, 10, 0, null),
+	('High Horsepower', 4, true, 10, 95, 95),
+	('Strength Sap', 11, null, 10, 0, 100),
+	('Solar Blade', 11, true, 10, 125, 100),
+	('Leafage', 11, true, 40, 40, 100),
+	('Spotlight', 0, null, 15, 0, null),
+	('Toxic Thread', 3, null, 20, 0, 100),
+	('Laser Focus', 0, null, 30, 0, null),
+	('Gear Up', 8, null, 20, 0, null),
+	('Throat Chop', 16, true, 15, 80, 100),
+	('Pollen Puff', 6, false, 15, 90, 100),
+	('Anchor Shot', 8, true, 20, 80, 100),
+	('Psychic Terrain', 13, null, 10, 0, null),
+	('Lunge', 6, true, 15, 80, 100),
+	('Fire Lash', 9, true, 15, 80, 100),
+	('Power Trip', 16, true, 10, 20, 100),
+	('Burn Up', 9, false, 5, 130, 100),
+	('Speed Swap', 13, null, 10, 0, null),
+	('Smart Strike', 8, true, 10, 70, null),
+	('Purify', 3, null, 20, 0, null),
+	('Revelation Dance', 0, false, 15, 90, 100),
+	('Core Enforcer', 15, false, 10, 100, 100),
+	('Trop Kick', 11, true, 15, 70, 100),
+	('Instruct', 13, null, 15, 0, null),
+	('Beak Blast', 2, true, 15, 100, 100),
+	('Clanging Scales', 15, false, 5, 110, 100),
+	('Dragon Hammer', 15, true, 15, 90, 100),
+	('Brutal Swing', 16, true, 20, 60, 100),
+	('Aurora Veil', 14, null, 20, 0, null),
+	('Shell Trap', 9, false, 5, 150, 100),
+	('Fleur Cannon', 17, false, 5, 130, 90),
+	('Psychic Fangs', 13, true, 10, 85, 100),
+	('Stomping Tantrum', 4, true, 10, 75, 100),
+	('Shadow Bone', 7, true, 10, 85, 100),
+	('Accelerock', 5, true, 20, 40, 100),
+	('Liquidation', 10, true, 10, 85, 100),
+	('Prismatic Laser', 13, false, 10, 160, 100),
+	('Spectral Thief', 7, true, 10, 90, 100),
+	('Sunsteel Strike', 8, true, 5, 100, 100),
+	('Moongeist Beam', 7, false, 5, 100, 100),
+	('Tearful Look', 0, null, 20, 0, null),
+	('Zing Zap', 12, true, 10, 80, 100),
+	('Nature''s Madness', 17, false, 10, null, 90),
+	('Multi-Attack', 0, true, 10, 90, 100);
 
 UPDATE MOVE_Data SET Priority=1 WHERE
-	Move_Name = 'Ally Switch' OR 
+	Move_Name = 'Accelerock' OR
 	Move_Name = 'Aqua Jet' OR
 	Move_Name = 'Baby-Doll Eyes' OR
 	Move_Name = 'Bide' OR
@@ -652,20 +703,24 @@ UPDATE MOVE_Data SET Priority=1 WHERE
 	Move_Name = 'Water Shuriken';
 
 UPDATE MOVE_Data SET Priority=2 WHERE
+	Move_Name = 'Ally Switch' OR
 	Move_Name = 'Extreme Speed' OR
 	Move_Name = 'Feint' OR
+	Move_Name = 'First Impression' OR
 	Move_Name = 'Follow Me' OR
 	Move_Name = 'Rage Powder';
 
 UPDATE MOVE_Data SET Priority=3 WHERE
-	Move_Name = 'Endure' OR
+	Move_Name = 'Spotlight' OR
 	Move_Name = 'Fake Out' OR
 	Move_Name = 'Quick Guard' OR
 	Move_Name = 'Wide Guard' OR
 	Move_Name = 'Crafty Shield';
 
 UPDATE MOVE_Data SET Priority=4 WHERE
+	Move_Name = 'Baneful Bunker' OR
 	Move_Name = 'Detect' OR
+	Move_Name = 'Endure' OR
 	Move_Name = 'King''s Shield' OR
 	Move_Name = 'Magic Coat' OR
 	Move_Name = 'Protect' OR
@@ -680,6 +735,10 @@ UPDATE MOVE_Data SET Priority=6 WHERE
 
 UPDATE MOVE_Data SET Priority=-1 WHERE
 	Move_Name = 'Vital Throw';
+	
+UPDATE MOVE_Data SET Priority=-3 WHERE
+	Move_Name = 'Beak Blast' OR
+	Move_Name = 'Shell Trap';
 
 UPDATE MOVE_Data SET Priority=-4 WHERE
 	Move_Name = 'Avalanche' OR
