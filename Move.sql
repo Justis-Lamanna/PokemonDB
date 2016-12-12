@@ -760,6 +760,7 @@ UPDATE MOVE_Data SET Priority=-7 WHERE
 CREATE TABLE Z_MOVE_Data
 (
 	Move_ID int PRIMARY KEY AUTO_INCREMENT,
+	Replaced_Move_ID int,
 	Move_Name varchar(40) NOT NULL, --Z Move names are significantly longer than usual.
 	Move_Type int NOT NULL,
 	isPhysical boolean,
@@ -807,16 +808,16 @@ VALUES --The generic Z-Moves.
 	('Twinkle Tackle', 17, false);
 	
 INSERT INTO Z_MOVE_Data
-	(Move_Name, Move_Type, isPhysical, Power)
+	(Replaced_Move_ID, Move_Name, Move_Type, isPhysical, Power)
 VALUES --The special Z moves.
-	('Catastropika', 12, true, 210),
-	('Sinister Arrow Raid', 7, true, 180),
-	('Malicious Moonsault', 16, true, 180),
-	('Oceanic Operetta', 10, false, 180),
-	('Guardian of Alola', 17, false, null),
-	('Soul-Stealing 7-Star Strike', 7, true, 195),
-	('Stoked Sparksurfer', 12, false, 175),
-	('Pulverizing Pancake', 0, true, 210),
-	('Extreme Evoboost', 0, null, null),
-	('Genesis Supernova', 13, false, 185),
-	('10,000,000 Volt Thunderbolt', 12, false, 195);
+	(344, 'Catastropika', 12, true, 210),
+	(625, 'Sinister Arrow Raid', 7, true, 180),
+	(626, 'Malicious Moonsault', 16, true, 180),
+	(627, 'Oceanic Operetta', 10, false, 180),
+	(671, 'Guardian of Alola', 17, false, null),
+	(666, 'Soul-Stealing 7-Star Strike', 7, true, 195),
+	(85, 'Stoked Sparksurfer', 12, false, 175),
+	(416, 'Pulverizing Pancake', 0, true, 210),
+	(387, 'Extreme Evoboost', 0, null, null),
+	(94, 'Genesis Supernova', 13, false, 185),
+	(85, '10,000,000 Volt Thunderbolt', 12, false, 195);
