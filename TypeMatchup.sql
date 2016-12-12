@@ -7,7 +7,7 @@ CREATE TABLE Type_Matchup
 );
 
 INSERT INTO Type_Matchup
-	(Matchup_ID, Attack_Type, Defend_Type, Multiplier)
+	(Attack_Type, Defend_Type, Multiplier)
 VALUES
 	(0, 5, 0.5),
 	(0, 7, 0),
